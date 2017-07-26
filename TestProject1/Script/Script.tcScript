@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Unit_import" key="{77B35A3A-D4AB-4DB8-9ABB-4165B0CE3D24}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Unit_import.py" />
+		</child>
+		<child name="Unit_Render" key="{CE97110B-86F9-42FD-8E2F-48E9734B6AC0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Unit_Render.py" />
+		</child>
+		<child name="Recent_Review_Edit" key="{6D5973A7-E4B5-45E2-96E2-BA76C59790E9}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Recent_Review_Edit.py" />
+		</child>
+		<child name="Unit_SetUp" key="{A9EF1C31-B7E9-4AFD-9E65-ACBB54067AFD}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Unit_SetUp.py" />
+		</child>
+		<child name="Browse_Review_Edit" key="{80955D5C-0884-42A9-829C-0C43B69CB244}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Browse_Review_Edit.py" />
+		</child>
+		<child name="Main_page" key="{17DC8E4C-EF25-466B-A6A8-2224920CC324}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Main_page.py" />
+		</child>
+		<child name="Compare" key="{1C32BB7D-1AEB-4FDE-A84B-11A62B4025DF}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Compare.py" />
+		</child>
+		<child name="Trim" key="{E155C211-C811-4332-AC64-70264330E952}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Trim.py" />
+		</child>
+	</children>
+	<folders>
+		<folder caption="Import" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{77B35A3A-D4AB-4DB8-9ABB-4165B0CE3D24}" />
+				<ref key="{E155C211-C811-4332-AC64-70264330E952}" />
+			</references>
+		</folder>
+		<folder caption="Render" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{CE97110B-86F9-42FD-8E2F-48E9734B6AC0}" />
+			</references>
+		</folder>
+		<folder caption="Review&amp;Edit" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{6D5973A7-E4B5-45E2-96E2-BA76C59790E9}" />
+				<ref key="{80955D5C-0884-42A9-829C-0C43B69CB244}" />
+			</references>
+		</folder>
+		<folder caption="SetUp" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{A9EF1C31-B7E9-4AFD-9E65-ACBB54067AFD}" />
+				<ref key="{17DC8E4C-EF25-466B-A6A8-2224920CC324}" />
+			</references>
+		</folder>
+		<folder caption="comparision" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{1C32BB7D-1AEB-4FDE-A84B-11A62B4025DF}" />
+			</references>
+		</folder>
+	</folders>
+</Root>

@@ -1,0 +1,3196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="5" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
+		<Children>
+			<Child Name="Sys" Key="{6CC85043-0CF8-4AAF-ACC1-8E80B547AF6A}" ParallelWalk="True">
+				<Properties>
+					<Property Name="Name">
+						<Value PropertyType="0" Value="Sys" Type="5" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="HumaneyesVRStudio" Key="{B7B3FA39-408A-4BDE-9973-F2C3328206EF}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value PropertyType="0" Value="HumaneyesVRStudio" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="VuzeApp" Key="{70DB4B92-63CA-4268-9FCB-BE5344B4536C}" ParallelWalk="True">
+								<Image FileName="-2142743844" Left="-8" Top="-8" Right="1448" Bottom="868" />
+								<Properties>
+									<Property Name="QtClassName">
+										<Value PropertyType="0" Value="VuzeApp" Type="5" />
+									</Property>
+									<Property Name="QtText">
+										<Value PropertyType="0" Value="Humaneyes VR Studio 1.1.3573" Type="5" />
+									</Property>
+									<Property Name="Index">
+										<Value PropertyType="0" Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Frame" Key="{B2E1E6E3-6F7D-4B62-96C3-55CD4071E545}" ParallelWalk="True">
+										<Image FileName="-2142743844" Left="0" Top="53" Right="1440" Bottom="860" />
+										<Properties>
+											<Property Name="QtClassName">
+												<Value PropertyType="0" Value="QFrame" Type="5" />
+											</Property>
+											<Property Name="QtText">
+												<Value PropertyType="0" Value="" Type="5" />
+											</Property>
+											<Property Name="QtIndex">
+												<Value PropertyType="0" Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="app_area" Key="{36401AD3-8B59-4431-AE3F-82A920AA2A97}" ParallelWalk="True">
+												<Image FileName="-2142743844" Left="10" Top="66" Right="1430" Bottom="850" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="app-area" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Splitter" Key="{B36858CB-08A4-4E4E-86C2-17400E136A2E}" ParallelWalk="True">
+														<Image FileName="-2142743844" Left="10" Top="66" Right="1430" Bottom="850" />
+														<Properties>
+															<Property Name="QtClassName">
+																<Value PropertyType="0" Value="QSplitter" Type="5" />
+															</Property>
+															<Property Name="QtText">
+																<Value PropertyType="0" Value="" Type="5" />
+															</Property>
+															<Property Name="QtIndex">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="StackedWidget" Key="{07446EB2-6CAD-451D-A32F-23F19FF8C9DC}" ParallelWalk="True">
+																<Image FileName="-2142743844" Left="10" Top="66" Right="1430" Bottom="850" />
+																<Properties>
+																	<Property Name="QtClassName">
+																		<Value PropertyType="0" Value="QStackedWidget" Type="5" />
+																	</Property>
+																	<Property Name="QtText">
+																		<Value PropertyType="0" Value="" Type="5" />
+																	</Property>
+																	<Property Name="QtIndex">
+																		<Value PropertyType="0" Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="quick_launch" Key="{E750DB4E-C0C5-43D2-8243-FDCB81622CA1}" ParallelWalk="True">
+																		<Image FileName="-2142743844" Left="10" Top="66" Right="1430" Bottom="850" />
+																		<Properties>
+																			<Property Name="objectName">
+																				<Value PropertyType="0" Value="quick-launch" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="HE_ToolButton" Key="{C150CA5B-5EB5-4634-BE5F-3A7E68B20E5E}" ParallelWalk="True">
+																				<Image FileName="-2142743844" Left="416" Top="239" Right="619" Bottom="341" />
+																				<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="HE_ToolButton" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="49006D0070006F00720074000A0074006F002000730074006100720074002000650064006900740069006E006700200069006E002000730074007500640069006F00" Type="7" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																					<Property Name="FullName">
+																						<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;quick_launch&quot;).QtObject(&quot;HE_ToolButton&quot;, &quot;Import\nto start editing in studio&quot;, 1)" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="HE_ToolButton2" Key="{882EC294-7F36-44EB-9884-4DB91EA74F97}" ParallelWalk="True">
+																				<Image FileName="1482150817" Left="619" Top="239" Right="822" Bottom="358" />
+																				<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="HE_ToolButton" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="5000720065007600690065007700200061006E006400200045006400690074000A00700072006F006A00650063007400730020006F00720020006D0065006400690061000A0079006F007500270076006500200061006C0072006500610064007900200069006D0070006F007200740065006400" Type="7" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="2" Type="0" />
+																					</Property>
+																					<Property Name="FullName">
+																						<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;quick_launch&quot;).QtObject(&quot;HE_ToolButton&quot;, &quot;Preview and Edit\nprojects or media\nyou\&apos;ve already imported&quot;, 2)" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="HE_ToolButton3" Key="{8412BBC6-5219-49C2-B13C-51A38E15464F}" ParallelWalk="True">
+																				<Image FileName="-451776273" Left="822" Top="239" Right="1025" Bottom="358" />
+																				<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="HE_ToolButton" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="520065006E006400650072000A0061006E00790020006D00650064006900610020006F0072002000700072006F006A006500630074000A0066006F0072002000760069006500770069006E006700200061006E0064002000730068006100720069006E006700" Type="7" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="3" Type="0" />
+																					</Property>
+																					<Property Name="FullName">
+																						<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;quick_launch&quot;).QtObject(&quot;HE_ToolButton&quot;, &quot;Render\nany media or project\nfor viewing and sharing&quot;, 3)" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="HE_ToolButton4" Key="{B282FDC4-FAEC-467C-80DF-1D034E54FD66}" ParallelWalk="True">
+																				<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="HE_ToolButton" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="49006D0070006F00720074000A0074006F002000730074006100720074002000650064006900740069006E006700200069006E002000730074007500640069006F00" Type="7" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="ImportViewWidget" Key="{B6B76986-4FD2-48A4-9449-883482C2FA35}" ParallelWalk="True">
+																		<Image FileName="2137933400" Left="10" Top="92" Right="1430" Bottom="850" />
+																		<Properties>
+																			<Property Name="QtClassName">
+																				<Value PropertyType="0" Value="ImportViewWidget" Type="5" />
+																			</Property>
+																			<Property Name="QtText">
+																				<Value PropertyType="0" Value="" Type="5" />
+																			</Property>
+																			<Property Name="QtIndex">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																			<Property Name="Name">
+																				<Value PropertyType="0" Value="QtObject(&quot;ImportViewWidget&quot;, &quot;&quot;, 1)" Type="5" />
+																			</Property>
+																			<Property Name="FullName">
+																				<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;ImportViewWidget&quot;, &quot;&quot;, 1)" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="HE_TabBar" Key="{566B09B2-4CA5-4EE4-8861-A35A01EA0689}" ParallelWalk="True">
+																				<Image FileName="2137933400" Left="10" Top="119" Right="1430" Bottom="148" />
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="HE_TabBar" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="" Type="5" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																					<Property Name="FullName">
+																						<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;ImportViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;HE_TabBar&quot;, &quot;&quot;, 1)" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="HE_PushButton" Key="{9567DE73-1151-4F61-8B44-953BAF240A3B}" ParallelWalk="True">
+																						<Image FileName="2137933400" Left="128" Top="119" Right="165" Bottom="148" />
+																						<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="2" Type="0" />
+																							</Property>
+																							<Property Name="FullName">
+																								<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;ImportViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;HE_TabBar&quot;, &quot;&quot;, 1).QtObject(&quot;HE_PushButton&quot;, &quot;&quot;, 2)" Type="5" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="StackedWidget" Key="{A293D51F-D10B-47F3-AFBE-8F1ADA43D5C2}" ParallelWalk="True">
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="QStackedWidget" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="" Type="5" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="HE_Label" Key="{8AB373AE-2360-4010-92A8-DDCD64353D1B}" ParallelWalk="True">
+																						<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="HE_Label" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="43006C00690063006B0020006800650072006500200074006F002000630068006F006F00730065002000610020006C006F0063006100740069006F006E00200074006F00200069006D0070006F00720074002000660072006F006D000A006F007200200063006F006E006E00650063007400200079006F00750072002000630061006D00650072006100" Type="7" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="VuzeViewWidget" Key="{12D8A65C-684F-4586-8C7E-205875029795}" ParallelWalk="True">
+																						<Image FileName="1458796807" Left="10" Top="190" Right="1430" Bottom="795" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="VuzeViewWidget" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ScrollArea" Key="{F25FA7FB-1A3C-4B6F-9E74-4125F7165D95}" ParallelWalk="True">
+																								<Image FileName="1458796807" Left="20" Top="190" Right="1424" Bottom="785" />
+																								<Properties>
+																									<Property Name="QtClassName">
+																										<Value PropertyType="0" Value="QScrollArea" Type="5" />
+																									</Property>
+																									<Property Name="QtText">
+																										<Value PropertyType="0" Value="" Type="5" />
+																									</Property>
+																									<Property Name="QtIndex">
+																										<Value PropertyType="0" Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="qt_scrollarea_viewport" Key="{862E5711-0982-4739-A01F-445BA291E70D}" ParallelWalk="True">
+																										<Image FileName="1458796807" Left="20" Top="190" Right="1424" Bottom="785" />
+																										<Properties>
+																											<Property Name="objectName">
+																												<Value PropertyType="0" Value="qt_scrollarea_viewport" Type="5" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="Widget" Key="{F211BA08-1C52-48B3-B3F6-60C4A7CF55AE}" ParallelWalk="True">
+																												<Image FileName="1458796807" Left="20" Top="190" Right="1424" Bottom="785" />
+																												<Properties>
+																													<Property Name="QtClassName">
+																														<Value PropertyType="0" Value="QWidget" Type="5" />
+																													</Property>
+																													<Property Name="QtText">
+																														<Value PropertyType="0" Value="" Type="5" />
+																													</Property>
+																													<Property Name="QtIndex">
+																														<Value PropertyType="0" Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="VuzeViewItem" Key="{9CBEDF22-EF80-4073-964D-1E0AB653DBAB}" ParallelWalk="True">
+																														<Image FileName="1458796807" Left="254" Top="217" Right="434" Bottom="309" />
+																														<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																														<Properties>
+																															<Property Name="QtClassName">
+																																<Value PropertyType="0" Value="VuzeViewItem" Type="5" />
+																															</Property>
+																															<Property Name="QtText">
+																																<Value PropertyType="0" Value="" Type="5" />
+																															</Property>
+																															<Property Name="QtIndex">
+																																<Value PropertyType="0" Value="2" Type="0" />
+																															</Property>
+																															<Property Name="locale">
+																																<Value PropertyType="0" Value="Error: No such interface supported" Type="5" />
+																															</Property>
+																															<Property Name="FullName">
+																																<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;ImportViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;VuzeViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QScrollArea&quot;, &quot;&quot;, 1).QtObject(&quot;qt_scrollarea_viewport&quot;).QtObject(&quot;QWidget&quot;, &quot;&quot;, 1).QtObject(&quot;VuzeViewItem&quot;, &quot;&quot;, 2)" Type="5" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="explore_buttons" Key="{2B01745D-7FAC-49D1-9DA5-3353A16E4ABB}" ParallelWalk="True">
+																				<Image FileName="1081196600" Left="10" Top="795" Right="1430" Bottom="850" />
+																				<Properties>
+																					<Property Name="objectName">
+																						<Value PropertyType="0" Value="explore_buttons" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="HE_PushButton" Key="{685B73E7-7886-4F75-9D83-444C319A87AD}" ParallelWalk="True">
+																						<Image FileName="1081196600" Left="1325" Top="811" Right="1400" Bottom="836" />
+																						<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="Import" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="2" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="ProjectViewWidget" Key="{F07C229F-F67E-4C9E-99B0-69276C5B68BD}" ParallelWalk="True">
+																		<Image FileName="-737206356" Left="10" Top="92" Right="1430" Bottom="850" />
+																		<Properties>
+																			<Property Name="QtClassName">
+																				<Value PropertyType="0" Value="ProjectViewWidget" Type="5" />
+																			</Property>
+																			<Property Name="QtText">
+																				<Value PropertyType="0" Value="" Type="5" />
+																			</Property>
+																			<Property Name="QtIndex">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="StackedWidget" Key="{749E3287-C69E-416B-AC37-2BA788E1841F}" ParallelWalk="True">
+																				<Image FileName="-737206356" Left="118" Top="119" Right="1417" Bottom="782" />
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="QStackedWidget" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="" Type="5" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="player_empty_area" Key="{DA750C03-E651-4A6E-A67C-755502A3BF90}" ParallelWalk="True">
+																						<Image FileName="-737206356" Left="118" Top="119" Right="1417" Bottom="782" />
+																						<Properties>
+																							<Property Name="objectName">
+																								<Value PropertyType="0" Value="player-empty-area" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="HE_ToolButton" Key="{2E6512E5-A903-4C5C-AD7A-AE61573E1FEE}" ParallelWalk="True">
+																								<Image FileName="-737206356" Left="667" Top="398" Right="768" Bottom="483" />
+																								<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																								<Properties>
+																									<Property Name="QtClassName">
+																										<Value PropertyType="0" Value="HE_ToolButton" Type="5" />
+																									</Property>
+																									<Property Name="QtText">
+																										<Value PropertyType="0" Value="Recent" Type="5" />
+																									</Property>
+																									<Property Name="QtIndex">
+																										<Value PropertyType="0" Value="1" Type="0" />
+																									</Property>
+																									<Property Name="Name">
+																										<Value PropertyType="0" Value="QtObject(&quot;HE_ToolButton&quot;, &quot;Recent&quot;, 1)" Type="5" />
+																									</Property>
+																									<Property Name="FullName">
+																										<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;ProjectViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;player_empty_area&quot;).QtObject(&quot;HE_ToolButton&quot;, &quot;Recent&quot;, 1)" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="HE_ToolButton2" Key="{D60B8B13-128F-40A5-B7F5-5FD30B8361F3}" ParallelWalk="True">
+																								<Image FileName="-927390413" Left="768" Top="398" Right="869" Bottom="483" />
+																								<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																								<Properties>
+																									<Property Name="QtClassName">
+																										<Value PropertyType="0" Value="HE_ToolButton" Type="5" />
+																									</Property>
+																									<Property Name="QtText">
+																										<Value PropertyType="0" Value="Browse" Type="5" />
+																									</Property>
+																									<Property Name="QtIndex">
+																										<Value PropertyType="0" Value="2" Type="0" />
+																									</Property>
+																									<Property Name="FullName">
+																										<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;ProjectViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;player_empty_area&quot;).QtObject(&quot;HE_ToolButton&quot;, &quot;Browse&quot;, 2)" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="PlayerAreaWidget" Key="{1C1FE3D1-FCC8-4B75-A458-3F160A6F146D}" ParallelWalk="True">
+																						<Image FileName="-975050004" Left="118" Top="119" Right="1135" Bottom="782" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="PlayerAreaWidget" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="player_controls" Key="{C593620E-A561-47CF-89B3-7BC4538FA491}" ParallelWalk="True">
+																								<Image FileName="-975050004" Left="128" Top="673" Right="1125" Bottom="703" />
+																								<Properties>
+																									<Property Name="objectName">
+																										<Value PropertyType="0" Value="player-controls" Type="5" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Frame" Key="{D6E7714F-EF8B-4B42-935B-C5B43058FA65}" ParallelWalk="True">
+																										<Image FileName="-975050004" Left="128" Top="673" Right="1125" Bottom="703" />
+																										<Properties>
+																											<Property Name="QtClassName">
+																												<Value PropertyType="0" Value="QFrame" Type="5" />
+																											</Property>
+																											<Property Name="QtText">
+																												<Value PropertyType="0" Value="" Type="5" />
+																											</Property>
+																											<Property Name="QtIndex">
+																												<Value PropertyType="0" Value="2" Type="0" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="HE_PushButton" Key="{4D586051-1606-47C2-A9E4-C3A33A322915}" ParallelWalk="True">
+																												<Image FileName="-975050004" Left="636" Top="680" Right="652" Bottom="696" />
+																												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																												<Properties>
+																													<Property Name="QtClassName">
+																														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+																													</Property>
+																													<Property Name="QtText">
+																														<Value PropertyType="0" Value="" Type="5" />
+																													</Property>
+																													<Property Name="QtIndex">
+																														<Value PropertyType="0" Value="6" Type="0" />
+																													</Property>
+																													<Property Name="FullName">
+																														<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;ProjectViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;PlayerAreaWidget&quot;, &quot;&quot;, 1).QtObject(&quot;player_controls&quot;).QtObject(&quot;QFrame&quot;, &quot;&quot;, 2).QtObject(&quot;HE_PushButton&quot;, &quot;&quot;, 6)" Type="5" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="HorizontalFOVTool" Key="{33DADB77-3D37-4DA2-8E71-AF6FF424C24B}" ParallelWalk="True">
+																								<Image FileName="107720338" Left="118" Top="119" Right="1135" Bottom="613" />
+																								<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																								<Properties>
+																									<Property Name="QtClassName">
+																										<Value PropertyType="0" Value="HorizontalFOVTool" Type="5" />
+																									</Property>
+																									<Property Name="QtText">
+																										<Value PropertyType="0" Value="" Type="5" />
+																									</Property>
+																									<Property Name="QtIndex">
+																										<Value PropertyType="0" Value="1" Type="0" />
+																									</Property>
+																									<Property Name="FullName">
+																										<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;ProjectViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;PlayerAreaWidget&quot;, &quot;&quot;, 1).QtObject(&quot;HorizontalFOVTool&quot;, &quot;&quot;, 1)" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="HorizontalFOVTool2" Key="{5882CCC4-5D1F-4EC0-B02F-A4470EDF3A12}" ParallelWalk="True">
+																								<Image FileName="-425831178" Left="118" Top="119" Right="1135" Bottom="613" />
+																								<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																								<Properties>
+																									<Property Name="QtClassName">
+																										<Value PropertyType="0" Value="HorizontalFOVTool" Type="5" />
+																									</Property>
+																									<Property Name="QtText">
+																										<Value PropertyType="0" Value="" Type="5" />
+																									</Property>
+																									<Property Name="QtIndex">
+																										<Value PropertyType="0" Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="project_tools" Key="{F3B01A00-4FD5-4CCA-BD69-828603B10412}" ParallelWalk="True">
+																				<Image FileName="-297124517" Left="10" Top="119" Right="91" Bottom="613" />
+																				<Properties>
+																					<Property Name="objectName">
+																						<Value PropertyType="0" Value="project-tools" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="HE_PushButton" Key="{E16E032E-EDB6-48E4-834C-6A42FE97E463}" ParallelWalk="True">
+																						<Image FileName="-297124517" Left="10" Top="212" Right="91" Bottom="249" />
+																						<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="3" Type="0" />
+																							</Property>
+																							<Property Name="FullName">
+																								<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;ProjectViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;project_tools&quot;).QtObject(&quot;HE_PushButton&quot;, &quot;&quot;, 3)" Type="5" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="HE_PushButton2" Key="{2AFECFDE-4B20-4793-86CC-9C744CB0C27A}" ParallelWalk="True">
+																						<Image FileName="247449407" Left="10" Top="212" Right="91" Bottom="249" />
+																						<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="3" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="explore_buttons" Key="{CBFFC72F-2685-4904-84D9-5CC8D550CD72}" ParallelWalk="True">
+																				<Image FileName="1927819417" Left="10" Top="626" Right="1148" Bottom="681" />
+																				<Properties>
+																					<Property Name="objectName">
+																						<Value PropertyType="0" Value="explore_buttons" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="HE_PushButton" Key="{45CCB33D-9094-4982-9B6D-321250077F9D}" ParallelWalk="True">
+																						<Image FileName="1927819417" Left="953" Top="642" Right="1024" Bottom="667" />
+																						<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value=" Save " Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																							<Property Name="FullName">
+																								<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;ProjectViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;explore_buttons&quot;).QtObject(&quot;HE_PushButton&quot;, &quot; Save &quot;, 1)" Type="5" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="RenderViewWidget" Key="{AF08B7E5-2858-47DB-AD59-36EFDF298B28}" ParallelWalk="True">
+																		<Properties>
+																			<Property Name="QtClassName">
+																				<Value PropertyType="0" Value="RenderViewWidget" Type="5" />
+																			</Property>
+																			<Property Name="QtText">
+																				<Value PropertyType="0" Value="" Type="5" />
+																			</Property>
+																			<Property Name="QtIndex">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="StackedWidget" Key="{C2262515-BA6D-4C64-8153-ED14B59BA64B}" ParallelWalk="True">
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="QStackedWidget" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="" Type="5" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="HE_Label" Key="{8270F476-6373-4E5D-9DF4-8F991EA0F934}" ParallelWalk="True">
+																						<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="HE_Label" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="Click here to choose a location to render from" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="VuzeViewWidget" Key="{BFDDEECB-3F87-4F38-B65E-DE62D9BEADB4}" ParallelWalk="True">
+																						<Image FileName="-1032118609" Left="10" Top="190" Right="1430" Bottom="795" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="VuzeViewWidget" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ScrollArea" Key="{1AA5D5FC-607A-4A50-9DAB-EC49575001AC}" ParallelWalk="True">
+																								<Image FileName="-1032118609" Left="20" Top="190" Right="1424" Bottom="785" />
+																								<Properties>
+																									<Property Name="QtClassName">
+																										<Value PropertyType="0" Value="QScrollArea" Type="5" />
+																									</Property>
+																									<Property Name="QtText">
+																										<Value PropertyType="0" Value="" Type="5" />
+																									</Property>
+																									<Property Name="QtIndex">
+																										<Value PropertyType="0" Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="qt_scrollarea_viewport" Key="{201DDCDC-7019-4E53-918F-CE4D140D5ACA}" ParallelWalk="True">
+																										<Image FileName="-1032118609" Left="20" Top="190" Right="1424" Bottom="785" />
+																										<Properties>
+																											<Property Name="objectName">
+																												<Value PropertyType="0" Value="qt_scrollarea_viewport" Type="5" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="Widget" Key="{96DBCF1C-97CD-4131-94F4-D02AB5119BB5}" ParallelWalk="True">
+																												<Image FileName="-1032118609" Left="20" Top="190" Right="1424" Bottom="785" />
+																												<Properties>
+																													<Property Name="QtClassName">
+																														<Value PropertyType="0" Value="QWidget" Type="5" />
+																													</Property>
+																													<Property Name="QtText">
+																														<Value PropertyType="0" Value="" Type="5" />
+																													</Property>
+																													<Property Name="QtIndex">
+																														<Value PropertyType="0" Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="VuzeViewItem" Key="{1741D977-A6E5-49D6-81C5-92581BD3672D}" ParallelWalk="True">
+																														<Image FileName="-1032118609" Left="254" Top="217" Right="434" Bottom="309" />
+																														<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																														<Properties>
+																															<Property Name="QtClassName">
+																																<Value PropertyType="0" Value="VuzeViewItem" Type="5" />
+																															</Property>
+																															<Property Name="QtText">
+																																<Value PropertyType="0" Value="" Type="5" />
+																															</Property>
+																															<Property Name="QtIndex">
+																																<Value PropertyType="0" Value="2" Type="0" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="explore_buttons" Key="{693739B7-3AB7-4FAC-9766-59A7F5996028}" ParallelWalk="True">
+																				<Image FileName="1804139997" Left="10" Top="795" Right="1430" Bottom="850" />
+																				<Properties>
+																					<Property Name="objectName">
+																						<Value PropertyType="0" Value="explore_buttons" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="HE_PushButton" Key="{1BA294FA-79DE-4A2D-9C1F-8A15329B65B3}" ParallelWalk="True">
+																						<Image FileName="1804139997" Left="1322" Top="811" Right="1400" Bottom="836" />
+																						<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="Render" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="2" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="ImportViewWidget2" Key="{11255B1E-2CDB-4CE1-8A88-6DDDA2B58BFB}" ParallelWalk="True">
+																		<Image FileName="1458796807" Left="10" Top="92" Right="1430" Bottom="850" />
+																		<Properties>
+																			<Property Name="QtClassName">
+																				<Value PropertyType="0" Value="ImportViewWidget" Type="5" />
+																			</Property>
+																			<Property Name="QtText">
+																				<Value PropertyType="0" Value="" Type="5" />
+																			</Property>
+																			<Property Name="QtIndex">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="StackedWidget" Key="{8C8CE866-AEB6-4D1B-8BDB-8E2EEC46FA12}" ParallelWalk="True">
+																				<Image FileName="1458796807" Left="10" Top="190" Right="1430" Bottom="795" />
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="QStackedWidget" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="" Type="5" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="VuzeViewWidget" Key="{5A3D0294-0D17-404C-AC0C-B2FDC3F4C35D}" ParallelWalk="True">
+																						<Image FileName="1458796807" Left="10" Top="190" Right="1430" Bottom="795" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="VuzeViewWidget" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ScrollArea" Key="{25F17AB7-CD79-440F-9A0B-A4C1330CFBC8}" ParallelWalk="True">
+																								<Image FileName="1458796807" Left="20" Top="190" Right="1424" Bottom="785" />
+																								<Properties>
+																									<Property Name="QtClassName">
+																										<Value PropertyType="0" Value="QScrollArea" Type="5" />
+																									</Property>
+																									<Property Name="QtText">
+																										<Value PropertyType="0" Value="" Type="5" />
+																									</Property>
+																									<Property Name="QtIndex">
+																										<Value PropertyType="0" Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="qt_scrollarea_viewport" Key="{4E0BDFAF-DA74-4E59-9859-F61FBADF61EA}" ParallelWalk="True">
+																										<Image FileName="1458796807" Left="20" Top="190" Right="1424" Bottom="785" />
+																										<Properties>
+																											<Property Name="objectName">
+																												<Value PropertyType="0" Value="qt_scrollarea_viewport" Type="5" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="Widget" Key="{C9EAD313-D2FA-4310-B1DA-41C997A6FCE5}" ParallelWalk="True">
+																												<Image FileName="1458796807" Left="20" Top="190" Right="1424" Bottom="785" />
+																												<Properties>
+																													<Property Name="QtClassName">
+																														<Value PropertyType="0" Value="QWidget" Type="5" />
+																													</Property>
+																													<Property Name="QtText">
+																														<Value PropertyType="0" Value="" Type="5" />
+																													</Property>
+																													<Property Name="QtIndex">
+																														<Value PropertyType="0" Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="VuzeViewItem" Key="{C2C240B7-58D3-4D26-A76D-904D308F0399}" ParallelWalk="True">
+																														<Image FileName="1458796807" Left="254" Top="217" Right="434" Bottom="309" />
+																														<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																														<Properties>
+																															<Property Name="QtClassName">
+																																<Value PropertyType="0" Value="VuzeViewItem" Type="5" />
+																															</Property>
+																															<Property Name="QtText">
+																																<Value PropertyType="0" Value="" Type="5" />
+																															</Property>
+																															<Property Name="QtIndex">
+																																<Value PropertyType="0" Value="2" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="vuzeitem_type_thumb" Key="{3145D3E9-F934-41C2-A4CA-A5B27D5E3259}" ParallelWalk="True">
+																																<Image FileName="1458796807" Left="326" Top="246" Right="361" Bottom="281" />
+																																<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																																<Properties>
+																																	<Property Name="objectName">
+																																		<Value PropertyType="0" Value="vuzeitem-type-thumb" Type="5" />
+																																	</Property>
+																																	<Property Name="FullName">
+																																		<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;ImportViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;VuzeViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QScrollArea&quot;, &quot;&quot;, 1).QtObject(&quot;qt_scrollarea_viewport&quot;).QtObject(&quot;QWidget&quot;, &quot;&quot;, 1).QtObject(&quot;VuzeViewItem&quot;, &quot;&quot;, 2).QtObject(&quot;vuzeitem_type_thumb&quot;)" Type="5" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																															<Child Name="vuzeitem_type_thumb2" Key="{3C44DB69-1FA8-431F-A6B7-3764A470C69E}" ParallelWalk="True">
+																																<Image FileName="1981069158" Left="326" Top="246" Right="361" Bottom="281" />
+																																<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																																<Properties>
+																																	<Property Name="objectName">
+																																		<Value PropertyType="0" Value="vuzeitem-type-thumb" Type="5" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="explore_buttons" Key="{31A3BB14-35BC-4C05-88D1-71D1C19390B8}" ParallelWalk="True">
+																				<Image FileName="1081196600" Left="10" Top="795" Right="1430" Bottom="850" />
+																				<Properties>
+																					<Property Name="objectName">
+																						<Value PropertyType="0" Value="explore_buttons" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="HE_PushButton" Key="{6E3BC814-2DE0-4051-BC56-9C533F0C85D4}" ParallelWalk="True">
+																						<Image FileName="1081196600" Left="1325" Top="811" Right="1400" Bottom="836" />
+																						<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="Import" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="2" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="HE_TabBar" Key="{BB75B6CE-36D7-49F2-A89E-52BFD7E6D467}" ParallelWalk="True">
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="HE_TabBar" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="" Type="5" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="HE_PushButton" Key="{B77CD10B-6BD4-4DBC-9958-2F8CA7E55058}" ParallelWalk="True">
+																						<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="2" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="RecentViewWidget" Key="{FB441B98-6019-421E-A68E-FC40701B3C23}" ParallelWalk="True">
+																<Image FileName="1369025781" Left="1158" Top="92" Right="1430" Bottom="850" />
+																<Properties>
+																	<Property Name="QtClassName">
+																		<Value PropertyType="0" Value="RecentViewWidget" Type="5" />
+																	</Property>
+																	<Property Name="QtText">
+																		<Value PropertyType="0" Value="" Type="5" />
+																	</Property>
+																	<Property Name="QtIndex">
+																		<Value PropertyType="0" Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="StackedWidget" Key="{D9B9564A-7D4C-40C2-981E-951C03CE9402}" ParallelWalk="True">
+																		<Image FileName="1369025781" Left="1158" Top="191" Right="1430" Bottom="795" />
+																		<Properties>
+																			<Property Name="QtClassName">
+																				<Value PropertyType="0" Value="QStackedWidget" Type="5" />
+																			</Property>
+																			<Property Name="QtText">
+																				<Value PropertyType="0" Value="" Type="5" />
+																			</Property>
+																			<Property Name="QtIndex">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="VuzeViewWidget" Key="{A63FA5F3-0B46-4814-934A-842BED21522A}" ParallelWalk="True">
+																				<Image FileName="1369025781" Left="1158" Top="191" Right="1430" Bottom="795" />
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="VuzeViewWidget" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="" Type="5" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="2" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ScrollArea" Key="{4D7275D2-C0C6-4B5A-B465-443A311ABB02}" ParallelWalk="True">
+																						<Image FileName="1369025781" Left="1168" Top="191" Right="1424" Bottom="785" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="QScrollArea" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="qt_scrollarea_viewport" Key="{5E5E810C-F61C-4C17-85DE-0B163A14EE85}" ParallelWalk="True">
+																								<Image FileName="1369025781" Left="1168" Top="191" Right="1424" Bottom="785" />
+																								<Properties>
+																									<Property Name="objectName">
+																										<Value PropertyType="0" Value="qt_scrollarea_viewport" Type="5" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Widget" Key="{1D592C30-614F-465A-828A-B61F8046842B}" ParallelWalk="True">
+																										<Image FileName="1369025781" Left="1168" Top="191" Right="1424" Bottom="785" />
+																										<Properties>
+																											<Property Name="QtClassName">
+																												<Value PropertyType="0" Value="QWidget" Type="5" />
+																											</Property>
+																											<Property Name="QtText">
+																												<Value PropertyType="0" Value="" Type="5" />
+																											</Property>
+																											<Property Name="QtIndex">
+																												<Value PropertyType="0" Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="VuzeViewItem" Key="{E874BE78-F1F0-46A2-8096-6DCDCA3CC263}" ParallelWalk="True">
+																												<Image FileName="1369025781" Left="1195" Top="218" Right="1375" Bottom="310" />
+																												<Properties>
+																													<Property Name="QtClassName">
+																														<Value PropertyType="0" Value="VuzeViewItem" Type="5" />
+																													</Property>
+																													<Property Name="QtText">
+																														<Value PropertyType="0" Value="" Type="5" />
+																													</Property>
+																													<Property Name="QtIndex">
+																														<Value PropertyType="0" Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="vuzeitem_type_thumb" Key="{D87EC84C-3DE3-47D5-BBE3-F18299BB3D5A}" ParallelWalk="True">
+																														<Image FileName="1369025781" Left="1267" Top="247" Right="1302" Bottom="282" />
+																														<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																														<Properties>
+																															<Property Name="objectName">
+																																<Value PropertyType="0" Value="vuzeitem-type-thumb" Type="5" />
+																															</Property>
+																															<Property Name="FullName">
+																																<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;RecentViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;VuzeViewWidget&quot;, &quot;&quot;, 2).QtObject(&quot;QScrollArea&quot;, &quot;&quot;, 1).QtObject(&quot;qt_scrollarea_viewport&quot;).QtObject(&quot;QWidget&quot;, &quot;&quot;, 1).QtObject(&quot;VuzeViewItem&quot;, &quot;&quot;, 1).QtObject(&quot;vuzeitem_type_thumb&quot;)" Type="5" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="VuzeViewItem2" Key="{0C11AD1D-E495-41EB-8621-5684E8A798A2}" ParallelWalk="True">
+																												<Image FileName="-1972971491" Left="1195" Top="218" Right="1375" Bottom="310" />
+																												<Properties>
+																													<Property Name="QtClassName">
+																														<Value PropertyType="0" Value="VuzeViewItem" Type="5" />
+																													</Property>
+																													<Property Name="QtText">
+																														<Value PropertyType="0" Value="" Type="5" />
+																													</Property>
+																													<Property Name="QtIndex">
+																														<Value PropertyType="0" Value="4" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="vuzeitem_type_thumb" Key="{7E0EE747-3EFB-4969-842A-1173170D8AA4}" ParallelWalk="True">
+																														<Image FileName="-1972971491" Left="1267" Top="247" Right="1302" Bottom="282" />
+																														<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																														<Properties>
+																															<Property Name="objectName">
+																																<Value PropertyType="0" Value="vuzeitem-type-thumb" Type="5" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="qt_scrollarea_vcontainer" Key="{EA9BB41D-ECA8-4D36-AFEA-A0CEBF3C1F5F}" ParallelWalk="True">
+																								<Properties>
+																									<Property Name="objectName">
+																										<Value PropertyType="0" Value="qt_scrollarea_vcontainer" Type="5" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ScrollBar" Key="{636A0D94-5D44-4FBF-B4F9-2A257955F50A}" ParallelWalk="True">
+																										<Properties>
+																											<Property Name="QtClassName">
+																												<Value PropertyType="0" Value="QScrollBar" Type="5" />
+																											</Property>
+																											<Property Name="QtText">
+																												<Value PropertyType="0" Value="" Type="5" />
+																											</Property>
+																											<Property Name="QtIndex">
+																												<Value PropertyType="0" Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="VuzeViewWidget2" Key="{BFBF1330-193F-4E74-BCB6-3A0BA5962628}" ParallelWalk="True">
+																				<Image FileName="-1621849653" Left="1158" Top="190" Right="1430" Bottom="626" />
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="VuzeViewWidget" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="" Type="5" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ScrollArea" Key="{CD52342A-8CE2-407B-8C15-50E49A545C6A}" ParallelWalk="True">
+																						<Image FileName="-1621849653" Left="1168" Top="190" Right="1424" Bottom="616" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="QScrollArea" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="qt_scrollarea_viewport" Key="{F2C6615F-1A1D-4A91-980B-FB3D7D689BCC}" ParallelWalk="True">
+																								<Image FileName="-1621849653" Left="1168" Top="190" Right="1412" Bottom="616" />
+																								<Properties>
+																									<Property Name="objectName">
+																										<Value PropertyType="0" Value="qt_scrollarea_viewport" Type="5" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Widget" Key="{63DA4CE0-0754-44D5-B33D-F8148FE1E625}" ParallelWalk="True">
+																										<Image FileName="-1621849653" Left="1168" Top="190" Right="1415" Bottom="812" />
+																										<Properties>
+																											<Property Name="QtClassName">
+																												<Value PropertyType="0" Value="QWidget" Type="5" />
+																											</Property>
+																											<Property Name="QtText">
+																												<Value PropertyType="0" Value="" Type="5" />
+																											</Property>
+																											<Property Name="QtIndex">
+																												<Value PropertyType="0" Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="VuzeViewItem" Key="{618204A4-7838-46C6-AE77-82B8E626F5D6}" ParallelWalk="True">
+																												<Image FileName="-1621849653" Left="1195" Top="217" Right="1375" Bottom="309" />
+																												<Properties>
+																													<Property Name="QtClassName">
+																														<Value PropertyType="0" Value="VuzeViewItem" Type="5" />
+																													</Property>
+																													<Property Name="QtText">
+																														<Value PropertyType="0" Value="" Type="5" />
+																													</Property>
+																													<Property Name="QtIndex">
+																														<Value PropertyType="0" Value="5" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="vuzeitem_type_thumb" Key="{0F8B477F-0241-40B6-9986-631CC14854A3}" ParallelWalk="True">
+																														<Image FileName="-1621849653" Left="1267" Top="246" Right="1302" Bottom="281" />
+																														<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																														<Properties>
+																															<Property Name="objectName">
+																																<Value PropertyType="0" Value="vuzeitem-type-thumb" Type="5" />
+																															</Property>
+																															<Property Name="FullName">
+																																<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;RecentViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;VuzeViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QScrollArea&quot;, &quot;&quot;, 1).QtObject(&quot;qt_scrollarea_viewport&quot;).QtObject(&quot;QWidget&quot;, &quot;&quot;, 1).QtObject(&quot;VuzeViewItem&quot;, &quot;&quot;, 5).QtObject(&quot;vuzeitem_type_thumb&quot;)" Type="5" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="VuzeViewItem2" Key="{B3AEDDB8-48E3-4BBF-BB88-9390A6DFC0B9}" ParallelWalk="True">
+																												<Image FileName="-1664633314" Left="1195" Top="217" Right="1375" Bottom="309" />
+																												<Properties>
+																													<Property Name="QtClassName">
+																														<Value PropertyType="0" Value="VuzeViewItem" Type="5" />
+																													</Property>
+																													<Property Name="QtText">
+																														<Value PropertyType="0" Value="" Type="5" />
+																													</Property>
+																													<Property Name="QtIndex">
+																														<Value PropertyType="0" Value="14" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="vuzeitem_type_thumb" Key="{D9F3646B-D6B9-4518-9189-0568707550AE}" ParallelWalk="True">
+																														<Image FileName="-1664633314" Left="1267" Top="246" Right="1302" Bottom="281" />
+																														<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																														<Properties>
+																															<Property Name="objectName">
+																																<Value PropertyType="0" Value="vuzeitem-type-thumb" Type="5" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="VuzeViewItem3" Key="{51BCFBFB-B85F-4313-90E4-E283F6D4A885}" ParallelWalk="True">
+																												<Image FileName="-563433093" Left="1195" Top="217" Right="1375" Bottom="309" />
+																												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																												<Properties>
+																													<Property Name="QtClassName">
+																														<Value PropertyType="0" Value="VuzeViewItem" Type="5" />
+																													</Property>
+																													<Property Name="QtText">
+																														<Value PropertyType="0" Value="" Type="5" />
+																													</Property>
+																													<Property Name="QtIndex">
+																														<Value PropertyType="0" Value="9" Type="0" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="qt_scrollarea_vcontainer" Key="{B3540987-C9B7-4FEA-9760-A132939AF3C2}" ParallelWalk="True">
+																								<Properties>
+																									<Property Name="objectName">
+																										<Value PropertyType="0" Value="qt_scrollarea_vcontainer" Type="5" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ScrollBar" Key="{4EB9CF88-A3AA-4EEC-B76F-CCC136627C1B}" ParallelWalk="True">
+																										<Properties>
+																											<Property Name="QtClassName">
+																												<Value PropertyType="0" Value="QScrollBar" Type="5" />
+																											</Property>
+																											<Property Name="QtText">
+																												<Value PropertyType="0" Value="" Type="5" />
+																											</Property>
+																											<Property Name="QtIndex">
+																												<Value PropertyType="0" Value="1" Type="0" />
+																											</Property>
+																											<Property Name="FullName">
+																												<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;VuzeApp&quot;, &quot;Humaneyes VR Studio 1.1.3573&quot;, 1).QtObject(&quot;QFrame&quot;, &quot;&quot;, 1).QtObject(&quot;app_area&quot;).QtObject(&quot;QSplitter&quot;, &quot;&quot;, 1).QtObject(&quot;RecentViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QStackedWidget&quot;, &quot;&quot;, 1).QtObject(&quot;VuzeViewWidget&quot;, &quot;&quot;, 1).QtObject(&quot;QScrollArea&quot;, &quot;&quot;, 1).QtObject(&quot;qt_scrollarea_vcontainer&quot;).QtObject(&quot;QScrollBar&quot;, &quot;&quot;, 1)" Type="5" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="ScrollBar2" Key="{2EF6813B-B965-4629-9C0B-B66D40DABB1E}" ParallelWalk="True">
+																										<Properties>
+																											<Property Name="QtClassName">
+																												<Value PropertyType="0" Value="QScrollBar" Type="5" />
+																											</Property>
+																											<Property Name="QtText">
+																												<Value PropertyType="0" Value="" Type="5" />
+																											</Property>
+																											<Property Name="QtIndex">
+																												<Value PropertyType="0" Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="explore_buttons" Key="{DBB1D380-BAEC-412D-90E9-7AD0454E62CC}" ParallelWalk="True">
+																		<Image FileName="1220518684" Left="1158" Top="795" Right="1430" Bottom="850" />
+																		<Properties>
+																			<Property Name="objectName">
+																				<Value PropertyType="0" Value="explore_buttons" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="HE_PushButton" Key="{C00A8EC3-E427-482A-A6B5-A7122BB48138}" ParallelWalk="True">
+																				<Image FileName="1220518684" Left="1282" Top="811" Right="1400" Bottom="836" />
+																				<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																				<Properties>
+																					<Property Name="QtClassName">
+																						<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+																					</Property>
+																					<Property Name="QtText">
+																						<Value PropertyType="0" Value="Preview &amp;&amp; Edit" Type="5" />
+																					</Property>
+																					<Property Name="QtIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="mode_switcher" Key="{226C0678-6281-46AC-BB22-9EFC121149C0}" ParallelWalk="True">
+												<Image FileName="-87171457" Left="0" Top="53" Right="1440" Bottom="79" />
+												<Properties>
+													<Property Name="objectName">
+														<Value PropertyType="0" Value="mode-switcher" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="buttonPreviewEdit" Key="{48B097D6-5927-42C9-ABFE-127A061C7E5D}" ParallelWalk="True">
+														<Image FileName="-87171457" Left="662" Top="53" Right="775" Bottom="79" />
+														<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+														<Properties>
+															<Property Name="QtClassName">
+																<Value PropertyType="0" Value="QPushButton" Type="5" />
+															</Property>
+															<Property Name="QtText">
+																<Value PropertyType="0" Value="Preview &amp;&amp; Edit" Type="5" />
+															</Property>
+															<Property Name="QtIndex">
+																<Value PropertyType="0" Value="2" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="MediaBrowserWidget" Key="{09068CEB-3065-41F7-9B83-CCB03A84D336}" ParallelWalk="True">
+								<Image FileName="-1608042306" Left="0" Top="0" Right="1066" Bottom="573" />
+								<Properties>
+									<Property Name="QtClassName">
+										<Value PropertyType="0" Value="MediaBrowserWidget" Type="5" />
+									</Property>
+									<Property Name="QtText">
+										<Value PropertyType="0" Value="" Type="5" />
+									</Property>
+									<Property Name="Index">
+										<Value PropertyType="0" Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="dialog_content" Key="{CB3C3DB3-3768-4822-86BC-E1C40EC07610}" ParallelWalk="True">
+										<Image FileName="-1608042306" Left="0" Top="30" Right="1066" Bottom="573" />
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="dialog-content" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Splitter" Key="{10B5C624-F588-4DE7-9611-0B1CB72C2FEA}" ParallelWalk="True">
+												<Image FileName="-1608042306" Left="27" Top="94" Right="1039" Bottom="503" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="QSplitter" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Frame" Key="{921CF1F5-8764-43B1-8799-DF3383120D7E}" ParallelWalk="True">
+														<Image FileName="-1608042306" Left="27" Top="94" Right="422" Bottom="503" />
+														<Properties>
+															<Property Name="QtClassName">
+																<Value PropertyType="0" Value="QFrame" Type="5" />
+															</Property>
+															<Property Name="QtText">
+																<Value PropertyType="0" Value="" Type="5" />
+															</Property>
+															<Property Name="QtIndex">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="MediaBrowserTreeView" Key="{E7AD1D6A-A36E-4E56-87B5-89AB9516B2F2}" ParallelWalk="True">
+																<Image FileName="-1608042306" Left="27" Top="94" Right="422" Bottom="503" />
+																<Properties>
+																	<Property Name="QtClassName">
+																		<Value PropertyType="0" Value="MediaBrowserTreeView" Type="5" />
+																	</Property>
+																	<Property Name="QtText">
+																		<Value PropertyType="0" Value="" Type="5" />
+																	</Property>
+																	<Property Name="QtIndex">
+																		<Value PropertyType="0" Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="qt_scrollarea_viewport" Key="{8406A420-ADDC-4A55-B6AA-C536C3D3D08D}" ParallelWalk="True">
+																		<Image FileName="-1608042306" Left="31" Top="98" Right="406" Bottom="499" />
+																		<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																		<Properties>
+																			<Property Name="objectName">
+																				<Value PropertyType="0" Value="qt_scrollarea_viewport" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="StackedWidget" Key="{8D83E566-D5AF-40B8-915E-FEC6558E8595}" ParallelWalk="True">
+														<Image FileName="2117533667" Left="428" Top="99" Right="1039" Bottom="503" />
+														<Properties>
+															<Property Name="QtClassName">
+																<Value PropertyType="0" Value="QStackedWidget" Type="5" />
+															</Property>
+															<Property Name="QtText">
+																<Value PropertyType="0" Value="" Type="5" />
+															</Property>
+															<Property Name="QtIndex">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="VuzeViewWidget" Key="{72FF1A82-89ED-4784-8A5B-66254A4AE3C9}" ParallelWalk="True">
+																<Image FileName="2117533667" Left="432" Top="103" Right="1035" Bottom="499" />
+																<Properties>
+																	<Property Name="QtClassName">
+																		<Value PropertyType="0" Value="VuzeViewWidget" Type="5" />
+																	</Property>
+																	<Property Name="QtText">
+																		<Value PropertyType="0" Value="" Type="5" />
+																	</Property>
+																	<Property Name="QtIndex">
+																		<Value PropertyType="0" Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ScrollArea" Key="{C3E757CA-490A-4408-B3C3-21EB8DCCD931}" ParallelWalk="True">
+																		<Image FileName="2117533667" Left="432" Top="103" Right="1035" Bottom="499" />
+																		<Properties>
+																			<Property Name="QtClassName">
+																				<Value PropertyType="0" Value="QScrollArea" Type="5" />
+																			</Property>
+																			<Property Name="QtText">
+																				<Value PropertyType="0" Value="" Type="5" />
+																			</Property>
+																			<Property Name="QtIndex">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="qt_scrollarea_viewport" Key="{C90F668B-33EF-4F78-8CCC-16B76A7CDF06}" ParallelWalk="True">
+																				<Image FileName="2117533667" Left="432" Top="103" Right="1035" Bottom="499" />
+																				<Properties>
+																					<Property Name="objectName">
+																						<Value PropertyType="0" Value="qt_scrollarea_viewport" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Widget" Key="{67480736-EB9A-4467-A984-4EE900C79B0D}" ParallelWalk="True">
+																						<Image FileName="2117533667" Left="432" Top="103" Right="1035" Bottom="499" />
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="QWidget" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="VuzeViewItem" Key="{FCEC8045-FEAD-4802-833A-413141C785E9}" ParallelWalk="True">
+																								<Image FileName="2117533667" Left="666" Top="130" Right="846" Bottom="222" />
+																								<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																								<Properties>
+																									<Property Name="QtClassName">
+																										<Value PropertyType="0" Value="VuzeViewItem" Type="5" />
+																									</Property>
+																									<Property Name="QtText">
+																										<Value PropertyType="0" Value="" Type="5" />
+																									</Property>
+																									<Property Name="QtIndex">
+																										<Value PropertyType="0" Value="2" Type="0" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="VuzeViewItem2" Key="{7CFFC418-3F04-4A3D-A70D-27F802FA9FCF}" ParallelWalk="True">
+																								<Image FileName="-380046654" Left="459" Top="130" Right="639" Bottom="222" />
+																								<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																								<Properties>
+																									<Property Name="QtClassName">
+																										<Value PropertyType="0" Value="VuzeViewItem" Type="5" />
+																									</Property>
+																									<Property Name="QtText">
+																										<Value PropertyType="0" Value="" Type="5" />
+																									</Property>
+																									<Property Name="QtIndex">
+																										<Value PropertyType="0" Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="qt_scrollarea_vcontainer" Key="{8402B393-9A96-46E1-B047-3EC6EF91EE2A}" ParallelWalk="True">
+																				<Properties>
+																					<Property Name="objectName">
+																						<Value PropertyType="0" Value="qt_scrollarea_vcontainer" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ScrollBar" Key="{41F9C644-FF0D-4678-9DB0-35D5F26C6144}" ParallelWalk="True">
+																						<Properties>
+																							<Property Name="QtClassName">
+																								<Value PropertyType="0" Value="QScrollBar" Type="5" />
+																							</Property>
+																							<Property Name="QtText">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="QtIndex">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="HE_PushButton" Key="{D64BA54E-3380-4CF1-BB87-079E28777B49}" ParallelWalk="True">
+												<Image FileName="205755306" Left="967" Top="530" Right="1039" Bottom="553" />
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="Select" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="3" Type="0" />
+													</Property>
+													<Property Name="FullName">
+														<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;MediaBrowserWidget&quot;, &quot;&quot;, 1).QtObject(&quot;dialog_content&quot;).QtObject(&quot;HE_PushButton&quot;, &quot;Select&quot;, 3)" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="HE_PushButton2" Key="{72D218B8-7B4F-4A2E-B19C-2A5D725906A2}" ParallelWalk="True">
+												<Image FileName="515946030" Left="875" Top="530" Right="951" Bottom="553" />
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="Cancel" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="2" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="HE_PushButton3" Key="{6D2B02AD-1A74-4133-AB5E-B76734BD2A8C}" ParallelWalk="True">
+												<Image FileName="-1403780208" Left="971" Top="530" Right="1039" Bottom="553" />
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="Open" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="3" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="HE_PushButton4" Key="{BF26E7D9-2E37-437D-8791-0E08EF4816DF}" ParallelWalk="True">
+												<Image FileName="-390365843" Left="967" Top="530" Right="1039" Bottom="553" />
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="Select" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="3" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="dialog_title" Key="{0A71EAA2-2DA4-4465-9C76-33D198194F84}" ParallelWalk="True">
+										<Image FileName="-2093072302" Left="0" Top="0" Right="1066" Bottom="30" />
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="dialog-title" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="HE_PushButton" Key="{1FDC0084-DE1E-4C09-8D23-28CAF4D00686}" ParallelWalk="True">
+												<Image FileName="-2093072302" Left="1041" Top="10" Right="1053" Bottom="18" />
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="MessageDialog" Key="{C7001B50-FB0A-4262-8E4E-6BA8D00974E3}" ParallelWalk="True">
+								<Image FileName="562653047" Left="0" Top="0" Right="490" Bottom="139" />
+								<Properties>
+									<Property Name="QtClassName">
+										<Value PropertyType="0" Value="MessageDialog" Type="5" />
+									</Property>
+									<Property Name="QtText">
+										<Value PropertyType="0" Value="" Type="5" />
+									</Property>
+									<Property Name="Index">
+										<Value PropertyType="0" Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="dialog_content" Key="{FC8376BA-D8C5-4D70-B41B-64AF8C10A809}" ParallelWalk="True">
+										<Image FileName="562653047" Left="1" Top="31" Right="489" Bottom="138" />
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="dialog-content" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="HE_PushButton" Key="{03108EC8-EB76-4CEF-BEA1-F00C3440B0D5}" ParallelWalk="True">
+												<Image FileName="562653047" Left="218" Top="95" Right="272" Bottom="118" />
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="OK" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="RenderDialog" Key="{E00F15C5-C670-4D90-84D8-91DA14FB6D53}" ParallelWalk="True">
+								<Image FileName="-609796805" Left="0" Top="0" Right="536" Bottom="389" />
+								<Properties>
+									<Property Name="QtClassName">
+										<Value PropertyType="0" Value="RenderDialog" Type="5" />
+									</Property>
+									<Property Name="QtText">
+										<Value PropertyType="0" Value="" Type="5" />
+									</Property>
+									<Property Name="Index">
+										<Value PropertyType="0" Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="dialog_title" Key="{84A77EA8-B5C0-4D39-8EAE-BA5630C5E63C}" ParallelWalk="True">
+										<Image FileName="-609796805" Left="0" Top="0" Right="536" Bottom="30" />
+										<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="dialog-title" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="render_group" Key="{7CA0C41C-A30C-4EA1-88E7-7416DB581108}" ParallelWalk="True">
+										<Image FileName="-2016503736" Left="0" Top="339" Right="536" Bottom="389" />
+										<Properties>
+											<Property Name="QtClassName">
+												<Value PropertyType="0" Value="QFrame" Type="5" />
+											</Property>
+											<Property Name="QtText">
+												<Value PropertyType="0" Value="" Type="5" />
+											</Property>
+											<Property Name="QtIndex">
+												<Value PropertyType="0" Value="4" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="HE_PushButton" Key="{3A592840-54DA-4933-AAF9-C4DE6FE5E1D8}" ParallelWalk="True">
+												<Image FileName="-2016503736" Left="274" Top="352" Right="352" Bottom="375" />
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="Render" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="2" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="ImportDialog" Key="{7266A55B-3A13-4E38-A020-B7627EA46777}" ParallelWalk="True">
+								<Image FileName="-427219835" Left="0" Top="0" Right="494" Bottom="182" />
+								<Properties>
+									<Property Name="QtClassName">
+										<Value PropertyType="0" Value="ImportDialog" Type="5" />
+									</Property>
+									<Property Name="QtText">
+										<Value PropertyType="0" Value="" Type="5" />
+									</Property>
+									<Property Name="Index">
+										<Value PropertyType="0" Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="dialog_content" Key="{82904C7A-1A1F-4A5C-B48A-0BFBAB429361}" ParallelWalk="True">
+										<Image FileName="-427219835" Left="0" Top="30" Right="494" Bottom="182" />
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="dialog-content" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="HE_PushButton" Key="{0AE08D21-F814-4AE6-9255-00B4FD815B3F}" ParallelWalk="True">
+												<Image FileName="-427219835" Left="256" Top="139" Right="331" Bottom="162" />
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="Import" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="3" Type="0" />
+													</Property>
+													<Property Name="FullName">
+														<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;ImportDialog&quot;, &quot;&quot;, 1).QtObject(&quot;dialog_content&quot;).QtObject(&quot;HE_PushButton&quot;, &quot;Import&quot;, 3)" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="HE_PushButton2" Key="{EF9C315F-4040-4989-8DD4-FB52D9C8BDA5}" ParallelWalk="True">
+												<Image FileName="788202616" Left="164" Top="139" Right="240" Bottom="162" />
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="Cancel" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="2" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="HE_PushButton3" Key="{3AB02FC5-1998-4067-B97B-D0D9909785DB}" ParallelWalk="True">
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="Import" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="3" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="SaveProjectDialog" Key="{E4CD4E2B-1539-4B22-9310-C0F662709AF5}" ParallelWalk="True">
+								<Image FileName="164053382" Left="0" Top="0" Right="1066" Bottom="573" />
+								<Properties>
+									<Property Name="QtClassName">
+										<Value PropertyType="0" Value="SaveProjectDialog" Type="5" />
+									</Property>
+									<Property Name="QtText">
+										<Value PropertyType="0" Value="" Type="5" />
+									</Property>
+									<Property Name="Index">
+										<Value PropertyType="0" Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="dialog_content" Key="{8135424C-7A88-4FE5-9B72-C02CE238B688}" ParallelWalk="True">
+										<Image FileName="164053382" Left="0" Top="30" Right="1066" Bottom="573" />
+										<Properties>
+											<Property Name="objectName">
+												<Value PropertyType="0" Value="dialog-content" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Frame" Key="{BCF1EF84-25E9-4E35-A2FC-1034961D9117}" ParallelWalk="True">
+												<Image FileName="164053382" Left="27" Top="458" Right="1039" Bottom="503" />
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="QFrame" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="LineEdit" Key="{AA37953C-E26D-4062-8946-C175E48DC6AC}" ParallelWalk="True">
+														<Image FileName="1242286329" Left="89" Top="478" Right="1039" Bottom="503" />
+														<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+														<Properties>
+															<Property Name="QtClassName">
+																<Value PropertyType="0" Value="QLineEdit" Type="5" />
+															</Property>
+															<Property Name="QtText">
+																<Value PropertyType="0" Value="" Type="5" />
+															</Property>
+															<Property Name="QtIndex">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="HE_PushButton" Key="{7FF948C4-7084-4508-BB3B-4519F0100FF1}" ParallelWalk="True">
+												<Image FileName="-1032338342" Left="974" Top="530" Right="1039" Bottom="553" />
+												<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+												<Properties>
+													<Property Name="QtClassName">
+														<Value PropertyType="0" Value="HE_PushButton" Type="5" />
+													</Property>
+													<Property Name="QtText">
+														<Value PropertyType="0" Value="Save" Type="5" />
+													</Property>
+													<Property Name="QtIndex">
+														<Value PropertyType="0" Value="3" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Menu2" Key="{CD455582-DAB0-4C86-B203-7CBFF5C1BDB6}" ParallelWalk="True">
+								<TypeInfo Item0="{EC6E2EC5-C726-4D0F-9243-1079DA7C9786}" />
+								<Properties>
+									<Property Name="QtClassName">
+										<Value PropertyType="0" Value="QMenu" Type="5" />
+									</Property>
+									<Property Name="QtText">
+										<Value PropertyType="0" Value="" Type="5" />
+									</Property>
+									<Property Name="Index">
+										<Value PropertyType="0" Value="1" Type="0" />
+									</Property>
+									<Property Name="FullName">
+										<Value PropertyType="0" Value="Sys.Process(&quot;HumaneyesVRStudio&quot;).QtObject(&quot;QMenu&quot;, &quot;&quot;, 1)" Type="5" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{7A5BE7C7-CAAC-4F51-A4D9-1A1688154000}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value PropertyType="0" Value="explorer" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{9BC1C83E-79A1-42BC-8B8F-C8AFE4602B42}" ParallelWalk="True">
+								<Image FileName="466273379" Left="0" Top="0" Right="1440" Bottom="40" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value PropertyType="0" Value="Shell_TrayWnd" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ReBarWindow32" Key="{8BDD1FA4-97F2-4ED9-8213-D08F404C85B9}" ParallelWalk="True">
+										<Image FileName="466273379" Left="142" Top="0" Right="1215" Bottom="40" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="ReBarWindow32" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="MSTaskSwWClass" Key="{19092A8C-254A-4D80-B138-A9B5381A7FA0}" ParallelWalk="True">
+												<Image FileName="466273379" Left="144" Top="0" Right="1215" Bottom="40" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value PropertyType="0" Value="MSTaskSwWClass" Type="5" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value PropertyType="0" Value="Running applications" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="MSTaskListWClass" Key="{E13555F0-E4A2-42E2-8345-F5B2F108D656}" ParallelWalk="True">
+														<Image FileName="466273379" Left="144" Top="0" Right="1215" Bottom="40" />
+														<TypeInfo Item0="{B5087D70-B64C-4FB1-B6C8-9A76AD9436AD}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value PropertyType="0" Value="MSTaskListWClass" Type="5" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value PropertyType="0" Value="Running applications" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndProgman" Key="{0855C9C3-66E4-4BF6-96C2-4DBAC2A7C0BB}" ParallelWalk="True">
+								<Image FileName="-240117046" Left="0" Top="0" Right="1440" Bottom="900" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value PropertyType="0" Value="Progman" Type="5" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value PropertyType="0" Value="Program Manager" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="SHELLDLL_DefView" Key="{708116AA-EA7C-46E0-B3E2-527A5176C3E1}" ParallelWalk="True">
+										<Image FileName="-240117046" Left="0" Top="0" Right="1440" Bottom="900" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="SHELLDLL_DefView" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="FolderView" Key="{FDC5F4A4-2F85-4020-99EA-53F671A0B051}" ParallelWalk="True">
+												<Image FileName="-240117046" Left="0" Top="0" Right="1440" Bottom="900" />
+												<TypeInfo Item0="{8F9ADDF6-24E1-44E4-9B5C-FD271D484253}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value PropertyType="0" Value="SysListView32" Type="5" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value PropertyType="0" Value="FolderView" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndCabinetWClass" Key="{565D4747-ED45-4889-8CE0-5EBC80BA8F2F}" ParallelWalk="True">
+								<Image FileName="-100034546" Left="0" Top="0" Right="1139" Bottom="641" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value PropertyType="0" Value="CabinetWClass" Type="5" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value PropertyType="0" Value="This PC" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ShellTabWindowClass" Key="{57C09C4A-29B6-481F-B612-B0FA4139A8BF}" ParallelWalk="True">
+										<Image FileName="-100034546" Left="8" Top="90" Right="1131" Bottom="633" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="ShellTabWindowClass" Type="5" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value PropertyType="0" Value="This PC" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="DUIViewWndClassName" Key="{5A09FD81-1387-4367-BD58-BCF09AE92999}" ParallelWalk="True">
+												<Image FileName="-100034546" Left="8" Top="90" Right="1131" Bottom="633" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value PropertyType="0" Value="DUIViewWndClassName" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Explorer_Pane" Key="{53195E3C-22C7-4F9F-8F65-F2BE5C5B97CC}" ParallelWalk="True">
+														<Image FileName="-100034546" Left="8" Top="90" Right="1131" Bottom="633" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value PropertyType="0" Value="DirectUI" Type="5" />
+															</Property>
+															<Property Name="ClassName">
+																<Value PropertyType="0" Value="HWNDView" Type="5" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value PropertyType="0" Value="pane" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="Explorer_Pane" Type="5" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="CtrlNotifySink" Key="{5F7949BD-4301-4E79-BEA6-98089906F7A4}" ParallelWalk="True">
+																<Image FileName="-1354820661" Left="168" Top="90" Right="1131" Bottom="610" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value PropertyType="0" Value="CtrlNotifySink" Type="5" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value PropertyType="0" Value="" Type="5" />
+																	</Property>
+																	<Property Name="Index">
+																		<Value PropertyType="0" Value="5" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ShellView" Key="{EF41DE14-4D1D-44A8-AB74-CB7B01139D3D}" ParallelWalk="True">
+																		<Image FileName="-1354820661" Left="168" Top="90" Right="1131" Bottom="610" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value PropertyType="0" Value="SHELLDLL_DefView" Type="5" />
+																			</Property>
+																			<Property Name="WndCaption">
+																				<Value PropertyType="0" Value="ShellView" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Items_View" Key="{2594AF03-8B03-421C-920D-3FABEA7C5C3B}" ParallelWalk="True">
+																				<Image FileName="-1354820661" Left="168" Top="90" Right="1131" Bottom="610" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value PropertyType="0" Value="DirectUI" Type="5" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value PropertyType="0" Value="UIItemsView" Type="5" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value PropertyType="0" Value="list" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="Items_View" Type="5" />
+																					</Property>
+																					<Property Name="ObjectGroupIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Devices_and_drives" Key="{9507160F-7C69-47A0-A342-20EA70CB4958}" ParallelWalk="True">
+																						<Image FileName="-1354820661" Left="168" Top="235" Right="1131" Bottom="376" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value PropertyType="0" Value="DirectUI" Type="5" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value PropertyType="0" Value="UIGroupItem" Type="5" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value PropertyType="0" Value="group" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="Devices_and_drives" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Local_Disk_C_" Key="{3CD56BA1-C32E-46DC-ABD0-645DEAEB78D7}" ParallelWalk="True">
+																								<Image FileName="-1354820661" Left="182" Top="263" Right="432" Bottom="316" />
+																								<Properties>
+																									<Property Name="FrameworkId">
+																										<Value PropertyType="0" Value="DirectUI" Type="5" />
+																									</Property>
+																									<Property Name="ClassName">
+																										<Value PropertyType="0" Value="UIItem" Type="5" />
+																									</Property>
+																									<Property Name="LocalizedControlType">
+																										<Value PropertyType="0" Value="list item" Type="5" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value PropertyType="0" Value="Local_Disk_C_" Type="5" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Space_used" Key="{0E274538-7A4E-4E68-9505-F0A1720B6584}" ParallelWalk="True">
+																										<Image FileName="-1354820661" Left="237" Top="281" Right="428" Bottom="296" />
+																										<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																										<Properties>
+																											<Property Name="FrameworkId">
+																												<Value PropertyType="0" Value="DirectUI" Type="5" />
+																											</Property>
+																											<Property Name="ClassName">
+																												<Value PropertyType="0" Value="UIProperty" Type="5" />
+																											</Property>
+																											<Property Name="LocalizedControlType">
+																												<Value PropertyType="0" Value="edit" Type="5" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value PropertyType="0" Value="Space_used" Type="5" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="Available_space" Key="{CEBB7035-6560-4268-8481-BDA5E81357FC}" ParallelWalk="True">
+																										<Image FileName="1040617532" Left="237" Top="296" Right="428" Bottom="312" />
+																										<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																										<Properties>
+																											<Property Name="FrameworkId">
+																												<Value PropertyType="0" Value="DirectUI" Type="5" />
+																											</Property>
+																											<Property Name="ClassName">
+																												<Value PropertyType="0" Value="UIProperty" Type="5" />
+																											</Property>
+																											<Property Name="LocalizedControlType">
+																												<Value PropertyType="0" Value="edit" Type="5" />
+																											</Property>
+																											<Property Name="ObjectIdentifier">
+																												<Value PropertyType="0" Value="Available_space" Type="5" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="Users" Key="{45A06A76-9593-442E-966D-3D71DA3A5834}" ParallelWalk="True">
+																						<Image FileName="-1650416931" Left="182" Top="226" Right="756" Bottom="248" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value PropertyType="0" Value="DirectUI" Type="5" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value PropertyType="0" Value="UIItem" Type="5" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value PropertyType="0" Value="list item" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="Users" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Name" Key="{F81F3861-30EB-4767-BB83-DB203B47D0B4}" ParallelWalk="True">
+																								<Image FileName="-1650416931" Left="204" Top="226" Right="440" Bottom="248" />
+																								<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																								<Properties>
+																									<Property Name="FrameworkId">
+																										<Value PropertyType="0" Value="DirectUI" Type="5" />
+																									</Property>
+																									<Property Name="ClassName">
+																										<Value PropertyType="0" Value="UIProperty" Type="5" />
+																									</Property>
+																									<Property Name="LocalizedControlType">
+																										<Value PropertyType="0" Value="edit" Type="5" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value PropertyType="0" Value="Name" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="wisam" Key="{91868FA7-56D6-4189-9549-087721186D29}" ParallelWalk="True">
+																						<Image FileName="-1894690395" Left="182" Top="184" Right="756" Bottom="206" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value PropertyType="0" Value="DirectUI" Type="5" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value PropertyType="0" Value="UIItem" Type="5" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value PropertyType="0" Value="list item" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="wisam" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Name" Key="{106140EF-F4C5-4A65-A3AC-108777C98E33}" ParallelWalk="True">
+																								<Image FileName="-1894690395" Left="204" Top="184" Right="440" Bottom="206" />
+																								<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																								<Properties>
+																									<Property Name="FrameworkId">
+																										<Value PropertyType="0" Value="DirectUI" Type="5" />
+																									</Property>
+																									<Property Name="ClassName">
+																										<Value PropertyType="0" Value="UIProperty" Type="5" />
+																									</Property>
+																									<Property Name="LocalizedControlType">
+																										<Value PropertyType="0" Value="edit" Type="5" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value PropertyType="0" Value="Name" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="Humaneyes_VR_Studio" Key="{E8AAD735-03F6-41A3-914D-25427783261B}" ParallelWalk="True">
+																						<Image FileName="-2021741600" Left="182" Top="226" Right="756" Bottom="248" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value PropertyType="0" Value="DirectUI" Type="5" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value PropertyType="0" Value="UIItem" Type="5" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value PropertyType="0" Value="list item" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="Humaneyes_VR_Studio" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Name" Key="{01D6EFC5-052C-4A15-99AA-D0BFB14B074E}" ParallelWalk="True">
+																								<Image FileName="-2021741600" Left="204" Top="226" Right="440" Bottom="248" />
+																								<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																								<Properties>
+																									<Property Name="FrameworkId">
+																										<Value PropertyType="0" Value="DirectUI" Type="5" />
+																									</Property>
+																									<Property Name="ClassName">
+																										<Value PropertyType="0" Value="UIProperty" Type="5" />
+																									</Property>
+																									<Property Name="LocalizedControlType">
+																										<Value PropertyType="0" Value="edit" Type="5" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value PropertyType="0" Value="Name" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="Projects" Key="{F95B6EB6-B9FD-43A6-8B81-60E4FC1C0177}" ParallelWalk="True">
+																						<Image FileName="-630569766" Left="182" Top="142" Right="756" Bottom="164" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value PropertyType="0" Value="DirectUI" Type="5" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value PropertyType="0" Value="UIItem" Type="5" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value PropertyType="0" Value="list item" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="Projects" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Name" Key="{F17EB050-F32C-4FFD-A6B4-383060673F61}" ParallelWalk="True">
+																								<Image FileName="-630569766" Left="204" Top="142" Right="440" Bottom="164" />
+																								<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																								<Properties>
+																									<Property Name="FrameworkId">
+																										<Value PropertyType="0" Value="DirectUI" Type="5" />
+																									</Property>
+																									<Property Name="ClassName">
+																										<Value PropertyType="0" Value="UIProperty" Type="5" />
+																									</Property>
+																									<Property Name="LocalizedControlType">
+																										<Value PropertyType="0" Value="edit" Type="5" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value PropertyType="0" Value="Name" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="Trim_project" Key="{07EE612A-8863-44EE-A0AF-2A363AF34B5A}" ParallelWalk="True">
+																						<Image FileName="1146220001" Left="182" Top="205" Right="756" Bottom="227" />
+																						<Properties>
+																							<Property Name="FrameworkId">
+																								<Value PropertyType="0" Value="DirectUI" Type="5" />
+																							</Property>
+																							<Property Name="ClassName">
+																								<Value PropertyType="0" Value="UIItem" Type="5" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value PropertyType="0" Value="list item" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="Trim_project" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="Name" Key="{2E84FC61-39EE-42A8-A89B-43961A7F01F7}" ParallelWalk="True">
+																								<Image FileName="1146220001" Left="204" Top="205" Right="440" Bottom="227" />
+																								<TypeInfo Item0="{44CEA78A-75AC-48F4-9872-93B66AF2051B}" />
+																								<Properties>
+																									<Property Name="FrameworkId">
+																										<Value PropertyType="0" Value="DirectUI" Type="5" />
+																									</Property>
+																									<Property Name="ClassName">
+																										<Value PropertyType="0" Value="UIProperty" Type="5" />
+																									</Property>
+																									<Property Name="LocalizedControlType">
+																										<Value PropertyType="0" Value="edit" Type="5" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value PropertyType="0" Value="Name" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="CtrlNotifySink2" Key="{5F96B47B-DEEC-499E-9D99-6FE23EC6CF71}" ParallelWalk="True">
+																<Image FileName="-100034546" Left="8" Top="90" Right="164" Bottom="610" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value PropertyType="0" Value="CtrlNotifySink" Type="5" />
+																	</Property>
+																	<Property Name="WndCaption">
+																		<Value PropertyType="0" Value="" Type="5" />
+																	</Property>
+																	<Property Name="Index">
+																		<Value PropertyType="0" Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="NamespaceTreeControl" Key="{A14E513E-CB09-4B88-BF28-0CD1B454175A}" ParallelWalk="True">
+																		<Image FileName="-100034546" Left="8" Top="90" Right="164" Bottom="610" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value PropertyType="0" Value="NamespaceTreeControl" Type="5" />
+																			</Property>
+																			<Property Name="WndCaption">
+																				<Value PropertyType="0" Value="Namespace Tree Control" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tvNamespaceTreeControl" Key="{C1F9998E-F789-415A-940F-6288E117EE62}" ParallelWalk="True">
+																				<Image FileName="-100034546" Left="8" Top="90" Right="164" Bottom="610" />
+																				<TypeInfo Item0="{4B1E4008-C430-4492-9B5F-34E967647605}" />
+																				<Properties>
+																					<Property Name="WndClass">
+																						<Value PropertyType="0" Value="SysTreeView32" Type="5" />
+																					</Property>
+																					<Property Name="WndCaption">
+																						<Value PropertyType="0" Value="Tree View" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="browser" Key="{66AD6BFF-4014-40EF-B8C7-6A6112390238}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value PropertyType="0" Value="Browser" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{67EB2016-D7C0-46C2-8507-7DAAA8DD1E7C}" ParallelWalk="True">
+								<TypeInfo Item0="{9BA106FB-8088-4324-AC35-10BE9DE21A14}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="BrowserWindow" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="HumaneyesVRStudio" Owner="{B7B3FA39-408A-4BDE-9973-F2C3328206EF}">
+			<Child Name="VuzeApp" Owner="{70DB4B92-63CA-4268-9FCB-BE5344B4536C}">
+				<Child Name="Frame" Owner="{B2E1E6E3-6F7D-4B62-96C3-55CD4071E545}">
+					<Child Name="app_area" Owner="{36401AD3-8B59-4431-AE3F-82A920AA2A97}">
+						<Child Name="Splitter" Owner="{B36858CB-08A4-4E4E-86C2-17400E136A2E}">
+							<Child Name="StackedWidget" Owner="{07446EB2-6CAD-451D-A32F-23F19FF8C9DC}">
+								<Child Name="quick_launch" Owner="{E750DB4E-C0C5-43D2-8243-FDCB81622CA1}">
+									<Child Name="HE_ToolButton" Owner="{C150CA5B-5EB5-4634-BE5F-3A7E68B20E5E}" />
+									<Child Name="HE_ToolButton2" Owner="{882EC294-7F36-44EB-9884-4DB91EA74F97}" />
+									<Child Name="HE_ToolButton3" Owner="{8412BBC6-5219-49C2-B13C-51A38E15464F}" />
+									<Child Name="HE_ToolButton4" Owner="{B282FDC4-FAEC-467C-80DF-1D034E54FD66}" />
+								</Child>
+								<Child Name="ImportViewWidget" Owner="{B6B76986-4FD2-48A4-9449-883482C2FA35}">
+									<Child Name="HE_TabBar" Owner="{566B09B2-4CA5-4EE4-8861-A35A01EA0689}">
+										<Child Name="HE_PushButton" Owner="{9567DE73-1151-4F61-8B44-953BAF240A3B}" />
+									</Child>
+									<Child Name="StackedWidget" Owner="{A293D51F-D10B-47F3-AFBE-8F1ADA43D5C2}">
+										<Child Name="HE_Label" Owner="{8AB373AE-2360-4010-92A8-DDCD64353D1B}" />
+										<Child Name="VuzeViewWidget" Owner="{12D8A65C-684F-4586-8C7E-205875029795}">
+											<Child Name="ScrollArea" Owner="{F25FA7FB-1A3C-4B6F-9E74-4125F7165D95}">
+												<Child Name="qt_scrollarea_viewport" Owner="{862E5711-0982-4739-A01F-445BA291E70D}">
+													<Child Name="Widget" Owner="{F211BA08-1C52-48B3-B3F6-60C4A7CF55AE}">
+														<Child Name="VuzeViewItem" Owner="{9CBEDF22-EF80-4073-964D-1E0AB653DBAB}" />
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+									<Child Name="explore_buttons" Owner="{2B01745D-7FAC-49D1-9DA5-3353A16E4ABB}">
+										<Child Name="HE_PushButton" Owner="{685B73E7-7886-4F75-9D83-444C319A87AD}" />
+									</Child>
+								</Child>
+								<Child Name="ProjectViewWidget" Owner="{F07C229F-F67E-4C9E-99B0-69276C5B68BD}">
+									<Child Name="StackedWidget" Owner="{749E3287-C69E-416B-AC37-2BA788E1841F}">
+										<Child Name="player_empty_area" Owner="{DA750C03-E651-4A6E-A67C-755502A3BF90}">
+											<Child Name="HE_ToolButton" Owner="{2E6512E5-A903-4C5C-AD7A-AE61573E1FEE}" />
+											<Child Name="HE_ToolButton2" Owner="{D60B8B13-128F-40A5-B7F5-5FD30B8361F3}" />
+										</Child>
+										<Child Name="PlayerAreaWidget" Owner="{1C1FE3D1-FCC8-4B75-A458-3F160A6F146D}">
+											<Child Name="player_controls" Owner="{C593620E-A561-47CF-89B3-7BC4538FA491}">
+												<Child Name="Frame" Owner="{D6E7714F-EF8B-4B42-935B-C5B43058FA65}">
+													<Child Name="HE_PushButton" Owner="{4D586051-1606-47C2-A9E4-C3A33A322915}" />
+												</Child>
+											</Child>
+											<Child Name="HorizontalFOVTool" Owner="{33DADB77-3D37-4DA2-8E71-AF6FF424C24B}" />
+											<Child Name="HorizontalFOVTool2" Owner="{5882CCC4-5D1F-4EC0-B02F-A4470EDF3A12}" />
+										</Child>
+									</Child>
+									<Child Name="project_tools" Owner="{F3B01A00-4FD5-4CCA-BD69-828603B10412}">
+										<Child Name="HE_PushButton" Owner="{E16E032E-EDB6-48E4-834C-6A42FE97E463}" />
+										<Child Name="HE_PushButton2" Owner="{2AFECFDE-4B20-4793-86CC-9C744CB0C27A}" />
+									</Child>
+									<Child Name="explore_buttons" Owner="{CBFFC72F-2685-4904-84D9-5CC8D550CD72}">
+										<Child Name="HE_PushButton" Owner="{45CCB33D-9094-4982-9B6D-321250077F9D}" />
+									</Child>
+								</Child>
+								<Child Name="RenderViewWidget" Owner="{AF08B7E5-2858-47DB-AD59-36EFDF298B28}">
+									<Child Name="StackedWidget" Owner="{C2262515-BA6D-4C64-8153-ED14B59BA64B}">
+										<Child Name="HE_Label" Owner="{8270F476-6373-4E5D-9DF4-8F991EA0F934}" />
+										<Child Name="VuzeViewWidget" Owner="{BFDDEECB-3F87-4F38-B65E-DE62D9BEADB4}">
+											<Child Name="ScrollArea" Owner="{1AA5D5FC-607A-4A50-9DAB-EC49575001AC}">
+												<Child Name="qt_scrollarea_viewport" Owner="{201DDCDC-7019-4E53-918F-CE4D140D5ACA}">
+													<Child Name="Widget" Owner="{96DBCF1C-97CD-4131-94F4-D02AB5119BB5}">
+														<Child Name="VuzeViewItem" Owner="{1741D977-A6E5-49D6-81C5-92581BD3672D}" />
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+									<Child Name="explore_buttons" Owner="{693739B7-3AB7-4FAC-9766-59A7F5996028}">
+										<Child Name="HE_PushButton" Owner="{1BA294FA-79DE-4A2D-9C1F-8A15329B65B3}" />
+									</Child>
+								</Child>
+								<Child Name="ImportViewWidget2" Owner="{11255B1E-2CDB-4CE1-8A88-6DDDA2B58BFB}">
+									<Child Name="StackedWidget" Owner="{8C8CE866-AEB6-4D1B-8BDB-8E2EEC46FA12}">
+										<Child Name="VuzeViewWidget" Owner="{5A3D0294-0D17-404C-AC0C-B2FDC3F4C35D}">
+											<Child Name="ScrollArea" Owner="{25F17AB7-CD79-440F-9A0B-A4C1330CFBC8}">
+												<Child Name="qt_scrollarea_viewport" Owner="{4E0BDFAF-DA74-4E59-9859-F61FBADF61EA}">
+													<Child Name="Widget" Owner="{C9EAD313-D2FA-4310-B1DA-41C997A6FCE5}">
+														<Child Name="VuzeViewItem" Owner="{C2C240B7-58D3-4D26-A76D-904D308F0399}">
+															<Child Name="vuzeitem_type_thumb2" Owner="{3C44DB69-1FA8-431F-A6B7-3764A470C69E}" />
+														</Child>
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+									<Child Name="explore_buttons" Owner="{31A3BB14-35BC-4C05-88D1-71D1C19390B8}">
+										<Child Name="HE_PushButton" Owner="{6E3BC814-2DE0-4051-BC56-9C533F0C85D4}" />
+									</Child>
+									<Child Name="HE_TabBar" Owner="{BB75B6CE-36D7-49F2-A89E-52BFD7E6D467}">
+										<Child Name="HE_PushButton" Owner="{B77CD10B-6BD4-4DBC-9958-2F8CA7E55058}" />
+									</Child>
+								</Child>
+							</Child>
+							<Child Name="RecentViewWidget" Owner="{FB441B98-6019-421E-A68E-FC40701B3C23}">
+								<Child Name="StackedWidget" Owner="{D9B9564A-7D4C-40C2-981E-951C03CE9402}">
+									<Child Name="VuzeViewWidget" Owner="{A63FA5F3-0B46-4814-934A-842BED21522A}">
+										<Child Name="ScrollArea" Owner="{4D7275D2-C0C6-4B5A-B465-443A311ABB02}">
+											<Child Name="qt_scrollarea_viewport" Owner="{5E5E810C-F61C-4C17-85DE-0B163A14EE85}">
+												<Child Name="Widget" Owner="{1D592C30-614F-465A-828A-B61F8046842B}">
+													<Child Name="VuzeViewItem" Owner="{E874BE78-F1F0-46A2-8096-6DCDCA3CC263}">
+														<Child Name="vuzeitem_type_thumb" Owner="{D87EC84C-3DE3-47D5-BBE3-F18299BB3D5A}" />
+													</Child>
+													<Child Name="VuzeViewItem2" Owner="{0C11AD1D-E495-41EB-8621-5684E8A798A2}">
+														<Child Name="vuzeitem_type_thumb" Owner="{7E0EE747-3EFB-4969-842A-1173170D8AA4}" />
+													</Child>
+												</Child>
+											</Child>
+											<Child Name="qt_scrollarea_vcontainer" Owner="{EA9BB41D-ECA8-4D36-AFEA-A0CEBF3C1F5F}">
+												<Child Name="ScrollBar" Owner="{636A0D94-5D44-4FBF-B4F9-2A257955F50A}" />
+											</Child>
+										</Child>
+									</Child>
+									<Child Name="VuzeViewWidget2" Owner="{BFBF1330-193F-4E74-BCB6-3A0BA5962628}">
+										<Child Name="ScrollArea" Owner="{CD52342A-8CE2-407B-8C15-50E49A545C6A}">
+											<Child Name="qt_scrollarea_viewport" Owner="{F2C6615F-1A1D-4A91-980B-FB3D7D689BCC}">
+												<Child Name="Widget" Owner="{63DA4CE0-0754-44D5-B33D-F8148FE1E625}">
+													<Child Name="VuzeViewItem" Owner="{618204A4-7838-46C6-AE77-82B8E626F5D6}">
+														<Child Name="vuzeitem_type_thumb" Owner="{0F8B477F-0241-40B6-9986-631CC14854A3}" />
+													</Child>
+													<Child Name="VuzeViewItem2" Owner="{B3AEDDB8-48E3-4BBF-BB88-9390A6DFC0B9}">
+														<Child Name="vuzeitem_type_thumb" Owner="{D9F3646B-D6B9-4518-9189-0568707550AE}" />
+													</Child>
+													<Child Name="VuzeViewItem3" Owner="{51BCFBFB-B85F-4313-90E4-E283F6D4A885}" />
+												</Child>
+											</Child>
+											<Child Name="qt_scrollarea_vcontainer" Owner="{B3540987-C9B7-4FEA-9760-A132939AF3C2}">
+												<Child Name="ScrollBar" Owner="{4EB9CF88-A3AA-4EEC-B76F-CCC136627C1B}" />
+												<Child Name="ScrollBar2" Owner="{2EF6813B-B965-4629-9C0B-B66D40DABB1E}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="explore_buttons" Owner="{DBB1D380-BAEC-412D-90E9-7AD0454E62CC}">
+									<Child Name="HE_PushButton" Owner="{C00A8EC3-E427-482A-A6B5-A7122BB48138}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="mode_switcher" Owner="{226C0678-6281-46AC-BB22-9EFC121149C0}">
+						<Child Name="buttonPreviewEdit" Owner="{48B097D6-5927-42C9-ABFE-127A061C7E5D}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="MediaBrowserWidget" Owner="{09068CEB-3065-41F7-9B83-CCB03A84D336}">
+				<Child Name="dialog_content" Owner="{CB3C3DB3-3768-4822-86BC-E1C40EC07610}">
+					<Child Name="Splitter" Owner="{10B5C624-F588-4DE7-9611-0B1CB72C2FEA}">
+						<Child Name="Frame" Owner="{921CF1F5-8764-43B1-8799-DF3383120D7E}">
+							<Child Name="MediaBrowserTreeView" Owner="{E7AD1D6A-A36E-4E56-87B5-89AB9516B2F2}">
+								<Child Name="qt_scrollarea_viewport" Owner="{8406A420-ADDC-4A55-B6AA-C536C3D3D08D}" />
+							</Child>
+						</Child>
+						<Child Name="StackedWidget" Owner="{8D83E566-D5AF-40B8-915E-FEC6558E8595}">
+							<Child Name="VuzeViewWidget" Owner="{72FF1A82-89ED-4784-8A5B-66254A4AE3C9}">
+								<Child Name="ScrollArea" Owner="{C3E757CA-490A-4408-B3C3-21EB8DCCD931}">
+									<Child Name="qt_scrollarea_viewport" Owner="{C90F668B-33EF-4F78-8CCC-16B76A7CDF06}">
+										<Child Name="Widget" Owner="{67480736-EB9A-4467-A984-4EE900C79B0D}">
+											<Child Name="VuzeViewItem" Owner="{FCEC8045-FEAD-4802-833A-413141C785E9}" />
+											<Child Name="VuzeViewItem2" Owner="{7CFFC418-3F04-4A3D-A70D-27F802FA9FCF}" />
+										</Child>
+									</Child>
+									<Child Name="qt_scrollarea_vcontainer" Owner="{8402B393-9A96-46E1-B047-3EC6EF91EE2A}">
+										<Child Name="ScrollBar" Owner="{41F9C644-FF0D-4678-9DB0-35D5F26C6144}" />
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="HE_PushButton" Owner="{D64BA54E-3380-4CF1-BB87-079E28777B49}" />
+					<Child Name="HE_PushButton2" Owner="{72D218B8-7B4F-4A2E-B19C-2A5D725906A2}" />
+					<Child Name="HE_PushButton3" Owner="{6D2B02AD-1A74-4133-AB5E-B76734BD2A8C}" />
+					<Child Name="HE_PushButton4" Owner="{BF26E7D9-2E37-437D-8791-0E08EF4816DF}" />
+				</Child>
+				<Child Name="dialog_title" Owner="{0A71EAA2-2DA4-4465-9C76-33D198194F84}">
+					<Child Name="HE_PushButton" Owner="{1FDC0084-DE1E-4C09-8D23-28CAF4D00686}" />
+				</Child>
+			</Child>
+			<Child Name="MessageDialog" Owner="{C7001B50-FB0A-4262-8E4E-6BA8D00974E3}">
+				<Child Name="dialog_content" Owner="{FC8376BA-D8C5-4D70-B41B-64AF8C10A809}">
+					<Child Name="HE_PushButton" Owner="{03108EC8-EB76-4CEF-BEA1-F00C3440B0D5}" />
+				</Child>
+			</Child>
+			<Child Name="RenderDialog" Owner="{E00F15C5-C670-4D90-84D8-91DA14FB6D53}">
+				<Child Name="dialog_title" Owner="{84A77EA8-B5C0-4D39-8EAE-BA5630C5E63C}" />
+				<Child Name="render_group" Owner="{7CA0C41C-A30C-4EA1-88E7-7416DB581108}">
+					<Child Name="HE_PushButton" Owner="{3A592840-54DA-4933-AAF9-C4DE6FE5E1D8}" />
+				</Child>
+			</Child>
+			<Child Name="ImportDialog" Owner="{7266A55B-3A13-4E38-A020-B7627EA46777}">
+				<Child Name="dialog_content" Owner="{82904C7A-1A1F-4A5C-B48A-0BFBAB429361}">
+					<Child Name="HE_PushButton" Owner="{0AE08D21-F814-4AE6-9255-00B4FD815B3F}" />
+					<Child Name="HE_PushButton2" Owner="{EF9C315F-4040-4989-8DD4-FB52D9C8BDA5}" />
+					<Child Name="HE_PushButton3" Owner="{3AB02FC5-1998-4067-B97B-D0D9909785DB}" />
+				</Child>
+			</Child>
+			<Child Name="SaveProjectDialog" Owner="{E4CD4E2B-1539-4B22-9310-C0F662709AF5}">
+				<Child Name="dialog_content" Owner="{8135424C-7A88-4FE5-9B72-C02CE238B688}">
+					<Child Name="Frame" Owner="{BCF1EF84-25E9-4E35-A2FC-1034961D9117}">
+						<Child Name="LineEdit" Owner="{AA37953C-E26D-4062-8946-C175E48DC6AC}" />
+					</Child>
+					<Child Name="HE_PushButton" Owner="{7FF948C4-7084-4508-BB3B-4519F0100FF1}" />
+				</Child>
+			</Child>
+			<Child Name="Menu2" Owner="{CD455582-DAB0-4C86-B203-7CBFF5C1BDB6}" />
+		</Child>
+		<Child Name="explorer" Owner="{7A5BE7C7-CAAC-4F51-A4D9-1A1688154000}">
+			<Child Name="wndShell_TrayWnd" Owner="{9BC1C83E-79A1-42BC-8B8F-C8AFE4602B42}">
+				<Child Name="ReBarWindow32" Owner="{8BDD1FA4-97F2-4ED9-8213-D08F404C85B9}">
+					<Child Name="MSTaskSwWClass" Owner="{19092A8C-254A-4D80-B138-A9B5381A7FA0}">
+						<Child Name="MSTaskListWClass" Owner="{E13555F0-E4A2-42E2-8345-F5B2F108D656}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="wndProgman" Owner="{0855C9C3-66E4-4BF6-96C2-4DBAC2A7C0BB}">
+				<Child Name="SHELLDLL_DefView" Owner="{708116AA-EA7C-46E0-B3E2-527A5176C3E1}">
+					<Child Name="FolderView" Owner="{FDC5F4A4-2F85-4020-99EA-53F671A0B051}" />
+				</Child>
+			</Child>
+			<Child Name="wndCabinetWClass" Owner="{565D4747-ED45-4889-8CE0-5EBC80BA8F2F}">
+				<Child Name="ShellTabWindowClass" Owner="{57C09C4A-29B6-481F-B612-B0FA4139A8BF}">
+					<Child Name="DUIViewWndClassName" Owner="{5A09FD81-1387-4367-BD58-BCF09AE92999}">
+						<Child Name="Explorer_Pane" Owner="{53195E3C-22C7-4F9F-8F65-F2BE5C5B97CC}">
+							<Child Name="CtrlNotifySink" Owner="{5F7949BD-4301-4E79-BEA6-98089906F7A4}">
+								<Child Name="ShellView" Owner="{EF41DE14-4D1D-44A8-AB74-CB7B01139D3D}">
+									<Child Name="Items_View" Owner="{2594AF03-8B03-421C-920D-3FABEA7C5C3B}">
+										<Child Name="Devices_and_drives" Owner="{9507160F-7C69-47A0-A342-20EA70CB4958}">
+											<Child Name="Local_Disk_C_" Owner="{3CD56BA1-C32E-46DC-ABD0-645DEAEB78D7}">
+												<Child Name="Space_used" Owner="{0E274538-7A4E-4E68-9505-F0A1720B6584}" />
+												<Child Name="Available_space" Owner="{CEBB7035-6560-4268-8481-BDA5E81357FC}" />
+											</Child>
+										</Child>
+										<Child Name="Users" Owner="{45A06A76-9593-442E-966D-3D71DA3A5834}">
+											<Child Name="Name" Owner="{F81F3861-30EB-4767-BB83-DB203B47D0B4}" />
+										</Child>
+										<Child Name="wisam" Owner="{91868FA7-56D6-4189-9549-087721186D29}">
+											<Child Name="Name" Owner="{106140EF-F4C5-4A65-A3AC-108777C98E33}" />
+										</Child>
+										<Child Name="Humaneyes_VR_Studio" Owner="{E8AAD735-03F6-41A3-914D-25427783261B}">
+											<Child Name="Name" Owner="{01D6EFC5-052C-4A15-99AA-D0BFB14B074E}" />
+										</Child>
+										<Child Name="Projects" Owner="{F95B6EB6-B9FD-43A6-8B81-60E4FC1C0177}">
+											<Child Name="Name" Owner="{F17EB050-F32C-4FFD-A6B4-383060673F61}" />
+										</Child>
+										<Child Name="Trim_project" Owner="{07EE612A-8863-44EE-A0AF-2A363AF34B5A}">
+											<Child Name="Name" Owner="{2E84FC61-39EE-42A8-A89B-43961A7F01F7}" />
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+							<Child Name="CtrlNotifySink2" Owner="{5F96B47B-DEEC-499E-9D99-6FE23EC6CF71}">
+								<Child Name="NamespaceTreeControl" Owner="{A14E513E-CB09-4B88-BF28-0CD1B454175A}">
+									<Child Name="tvNamespaceTreeControl" Owner="{C1F9998E-F789-415A-940F-6288E117EE62}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="browser" Owner="{66AD6BFF-4014-40EF-B8C7-6A6112390238}">
+			<Child Name="BrowserWindow" Owner="{67EB2016-D7C0-46C2-8507-7DAAA8DD1E7C}" />
+		</Child>
+	</LogicalNodes>
+	<TypeInfo StoreCodeCompletion="1">
+		<Child Hash="-799264832" Key="{44CEA78A-75AC-48F4-9872-93B66AF2051B}">
+			<Data Properties="6C74836092F2724B84E5835908F92968UFFFFFFFFFFFFFFFFV4L7ZZY">
+				<FunctionDescriptions>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="157446646" Key="{B5087D70-B64C-4FB1-B6C8-9A76AD9436AD}">
+			<Data Properties="555B078A46F97544BA8E8DE44EB8DFF1UFFFFFFFFFFFFFFFFV4L8ZZY">
+				<FunctionDescriptions>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="299822033" Key="{EC6E2EC5-C726-4D0F-9243-1079DA7C9786}">
+			<Data Properties="4D934687DB85C648AA2243A046947C1BUFFFFFFFFFFFFFFFFV4LEZZY">
+				<FunctionDescriptions>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Close" Doc="Closes the specified Window object." IsBasic="True" Param0="WaitTimeout" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="2000" Type="0" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Position" Doc="Sets the specified position and size for the specific Window object." IsBasic="True" Param0="Left" Param1="Top" Param2="Width" Param3="Height" Data="ZI4L1L4L4Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param3>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="-2003868608" Key="{8F9ADDF6-24E1-44E4-9B5C-FD271D484253}">
+			<Data Properties="938884C4A44AF045A4CBE9F9E31420F5UFFFFFFFFFFFFFFFFV4LBZZY">
+				<FunctionDescriptions>
+					<Child Name="ClickItem" Doc="Moves the mouse cursor to Item and then simulates a single click. Item may be specified by index, from 0, or by name." IsBasic="True" Param0="Item" Param1="SubItem" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="wItemCount" Doc="Returns the total number of items in the list view." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="wItem" Doc="Returns the name of the item specified by its index or using a wildcard." IsBasic="True" Param0="Item" Param1="SubItem" Data="ZI4L2L4L2ZG8ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param1>
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="-1079864007" Key="{9BA106FB-8088-4324-AC35-10BE9DE21A14}">
+			<Data Properties="BE737BC3C88DBF4B8D1D0E2730EBADD9UFFFFFFFFFFFFFFFFV4LFZZY">
+				<FunctionDescriptions>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Close" Doc="Closes the specified Window object." IsBasic="True" Param0="WaitTimeout" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="2000" Type="0" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Position" Doc="Sets the specified position and size for the specific Window object." IsBasic="True" Param0="Left" Param1="Top" Param2="Width" Param3="Height" Data="ZI4L1L4L4Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param3>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="-122636473" Key="{4B1E4008-C430-4492-9B5F-34E967647605}">
+			<Data Properties="86E17320C93FCB47A648E07F69305G5UFFFFFFFFFFFFFFFFV4LBZZY">
+				<FunctionDescriptions>
+					<Child Name="ClickItem" Doc="Moves the mouse cursor to the specified item and then simulates a single click." IsBasic="True" Param0="Item" Param1="Shift" Data="ZI4L1L4L2Z018ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param1>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ExpandItem" Doc="Expands the specified tree view item." IsBasic="True" Param0="Item" Param1="Expand" Data="ZI4L1L4L2Z018ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param1>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="wItems" Doc="Returns the collection of items." IsBasic="True" Data="ZI4L2L4ZO9ZN">
+						<ReturnValue Param0="9" />
+					</Child>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+	</TypeInfo>
+</Root>

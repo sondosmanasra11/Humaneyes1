@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1140" key="{F82EDBAD-9DEF-499E-9742-99E51D328303}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{6F51AAA8-537D-44CF-9A16-27F03A8340C7}" type="Tested Application" typeId="{FD30A383-63C2-4C25-948C-2595C0F81320}">
+			<config nodeName="HumaneyesVRStudio" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Program Files\Humaneyes-VR-Studio" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Program Files\Humaneyes-VR-Studio" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Program Files\Humaneyes-VR-Studio" />
+					<param name="Simple" fileName="HumaneyesVRStudio.exe" filePath="C:\Program Files\Humaneyes-VR-Studio\" parameters="" workFolder="C:\Program Files\Humaneyes-VR-Studio" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+	<folders />
+</Root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{FC129E00-C630-461D-9B3C-1D94DB23538F}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="42940.2475" objectName="Aliases.HumaneyesVRStudio.VuzeApp.Frame.app_area.Splitter.StackedWidget.ImportViewWidget2.StackedWidget.VuzeViewWidget.ScrollArea.qt_scrollarea_viewport.Widget.VuzeViewItem" objectLeft="254" objectTop="217" objectRight="434" objectBottom="309" clickPointX="370" clickPointY="279" imageFileName="tcvi8857295361360.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="42940.2475231482" objectName="Aliases.HumaneyesVRStudio.VuzeApp.Frame.app_area.Splitter.StackedWidget.ImportViewWidget2.StackedWidget.VuzeViewWidget.ScrollArea.qt_scrollarea_viewport.Widget.VuzeViewItem.vuzeitem_type_thumb2" objectLeft="326" objectTop="246" objectRight="361" objectBottom="281" clickPointX="334" clickPointY="262" imageFileName="tcvi8857526561362.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="42940.2475462963" objectName="Aliases.HumaneyesVRStudio.VuzeApp.Frame.app_area.Splitter.StackedWidget.ImportViewWidget2.explore_buttons.HE_PushButton" objectLeft="1325" objectTop="811" objectRight="1400" objectBottom="836" clickPointX="1333" clickPointY="823" imageFileName="tcvi8857728161364.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
